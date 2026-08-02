@@ -1,11 +1,6 @@
 {
   "version": 2,
   "cleanUrls": true,
-  "rewrites": [
-    { "source": "/", "destination": "/docs/index.html" },
-    { "source": "/data/(.*)", "destination": "/data/$1" },
-    { "source": "/docs/(.*)", "destination": "/docs/$1" }
-  ],
   "headers": [
     {
       "source": "/data/master_listings.json",
