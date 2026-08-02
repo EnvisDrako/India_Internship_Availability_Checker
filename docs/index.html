@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>India AI & SWE Internship/Off-Campus Tracker | High PPO Focus</title>
+  <meta name="description" content="Automated, real-time off-campus tracker for AI, Machine Learning, and Software Engineering internships and entry-level roles in India with high PPO conversion potential.">
+  
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            brand: {
+              50: '#f0f7ff',
+              100: '#e0effe',
+              500: '#3b82f6',
+              600: '#2563eb',
+              900: '#1e3a8a',
+            },
+            darkbg: '#0b0f19',
+            cardbg: '#131b2e',
+            glass: 'rgba(19, 27, 46, 0.75)'
+          }
+        }
+      }
+    }
+  </script>
+  
+  <!-- React & ReactDOM CDN -->
+  <script src="https://unpkg.com/react@18/umd/react.production.min.js" crossorigin></script>
+  <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js" crossorigin></script>
+  <!-- Babel for JSX -->
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  
+  <style>
+    body {
+      font-family: 'Outfit', sans-serif;
+      background-color: #0b0f19;
+      color: #f3f4f6;
+    }
+    .glass-card {
+      background: rgba(19, 27, 46, 0.7);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+    }
+    .glow-border:hover {
+      border-color: rgba(59, 130, 246, 0.5);
+      box-shadow: 0 0 20px rgba(59, 130, 246, 0.25);
+    }
+    .gradient-text {
+      background: linear-gradient(135deg, #60a5fa 0%, #a855f7 50%, #f43f5e 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+  </style>
+</head>
+<body class="min-h-screen selection:bg-brand-500 selection:text-white">
+  <div id="root"></div>
+
+  <script type="text/babel">
+    const { useState, useEffect, useMemo } = React;
+
+    const SAMPLE_FALLBACK_DATA = [
+      {
+        id: "sample1",
+        company: "Sarvam AI",
+        title: "GenAI & LLM Systems Intern (6 Months)",
+        category: "AI/ML & GenAI",
+        tier: "High-Paying Startup / AI Lab",
+        conversion_potential: "High (PPO/FTE Path)",
+        location: ["Bengaluru", "Remote (India)"],
+        batch_eligibility: [2026, 2027],
+        stipend_or_ctc: "₹1,20,000/mo",
+        apply_url: "https://sarvam.ai/careers",
+        source: "Greenhouse",
+        date_posted: "2026-08-02",
+        is_active: true
+      },
+      {
+        id: "sample2",
+        company: "Atlassian",
+        title: "Software Engineer Intern - Backend & Distributed Systems",
+        category: "Software Engineering (Backend/Fullstack)",
+        tier: "Enterprise SaaS & DevTools",
+        conversion_potential: "High (PPO/FTE Path)",
+        location: ["Bengaluru"],
+        batch_eligibility: [2026],
+        stipend_or_ctc: "₹1,00,000/mo",
+        apply_url: "https://www.atlassian.com/company/careers",
+        source: "Greenhouse",
+        date_posted: "2026-08-01",
+        is_active: true
+      },
+      {
+        id: "sample3",
+        company: "Cohesity",
+        title: "Cloud Infrastructure & SRE Intern",
+        category: "Systems & Infrastructure/DevOps",
+        tier: "Enterprise SaaS & DevTools",
+        conversion_potential: "High (PPO/FTE Path)",
+        location: ["Bengaluru", "Pune"],
+        batch_eligibility: [2026, 2027],
+        stipend_or_ctc: "₹75,000/mo",
+        apply_url: "https://www.cohesity.com/company/careers/",
+        source: "Greenhouse",
+        date_posted: "2026-07-30",
+        is_active: true
+      }
+    ];
+
+    function App() {
+      const [listings, setListings] = useState([]);
+      const [loading, setLoading] = useState(true);
+      const [searchQuery, setSearchQuery] = useState('');
+      const [selectedCategory, setSelectedCategory] = useState('All');
+      const [selectedTier, setSelectedTier] = useState('All');
+      const [selectedPPO, setSelectedPPO] = useState('All');
+      const [selectedBatch, setSelectedBatch] = useState('All');
+      const [selectedLocation, setSelectedLocation] = useState('All');
+
+      useEffect(() => {
+        async function fetchData() {
+          const tryPaths = [
+            'data/master_listings.json',
+            '/data/master_listings.json',
+            '../data/master_listings.json',
+            './data/master_listings.json'
+          ];
+
+          for (const path of tryPaths) {
+            try {
+              const res = await fetch(path);
+              if (res.ok) {
+                const data = await res.json();
+                if (Array.isArray(data) && data.length > 0) {
+                  setListings(data);
+                  setLoading(false);
+                  return;
+                }
+              }
+            } catch (err) {
+              // try next path
+            }
+          }
+
+          setListings(SAMPLE_FALLBACK_DATA);
+          setLoading(false);
+        }
+        fetchData();
+      }, []);
+
+      const filteredListings = useMemo(() => {
+        return listings.filter(item => {
+          if (!item.is_active) return false;
+          
+          if (searchQuery.trim()) {
+            const q = searchQuery.toLowerCase();
+            const matchComp = item.company.toLowerCase().includes(q);
+            const matchTitle = item.title.toLowerCase().includes(q);
+            const matchLoc = item.location.some(l => l.toLowerCase().includes(q));
+            if (!matchComp && !matchTitle && !matchLoc) return false;
+          }
+
+          if (selectedCategory !== 'All' && item.category !== selectedCategory) return false;
+          if (selectedTier !== 'All' && item.tier !== selectedTier) return false;
+          if (selectedPPO !== 'All' && item.conversion_potential !== selectedPPO) return false;
+          if (selectedBatch !== 'All' && !item.batch_eligibility.includes(Number(selectedBatch))) return false;
+          if (selectedLocation !== 'All' && !item.location.includes(selectedLocation)) return false;
+
+          return true;
+        });
+      }, [listings, searchQuery, selectedCategory, selectedTier, selectedPPO, selectedBatch, selectedLocation]);
+
+      const stats = useMemo(() => {
+        const total = listings.length;
+        const highPPO = listings.filter(l => l.conversion_potential === "High (PPO/FTE Path)").length;
+        const aiCount = listings.filter(l => l.category === "AI/ML & GenAI").length;
+        const sweCount = listings.filter(l => l.category === "Software Engineering (Backend/Fullstack)").length;
+        return { total, highPPO, aiCount, sweCount };
+      }, [listings]);
+
+      return (
+        <div class="min-h-screen pb-16">
+          {/* Top Decorative Banner */}
+          <div class="w-full bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 text-white text-xs font-semibold py-1.5 px-4 text-center tracking-wide flex justify-center items-center gap-2 shadow-md">
+            <span>⚡ AUTO-UPDATED EVERY 6 HOURS</span>
+            <span>•</span>
+            <span>Vercel + GitHub Pages Fast Delivery</span>
+            <span>•</span>
+            <span>PPO & High Conversion Off-Campus Tracker</span>
+          </div>
+
+          {/* Header */}
+          <header class="max-w-7xl mx-auto px-4 pt-8 pb-6">
+            <div class="flex flex-col md:flex-row md:items-center justify-between gap-6">
+              <div>
+                <div class="flex items-center gap-3 mb-2">
+                  <span class="bg-blue-500/20 text-blue-400 border border-blue-500/30 text-xs px-3 py-1 rounded-full font-semibold">
+                    🇮🇳 India Tech Hubs & Remote
+                  </span>
+                  <span class="bg-emerald-500/20 text-emerald-400 border border-emerald-500/30 text-xs px-3 py-1 rounded-full font-semibold">
+                    High Conversion PPO
+                  </span>
+                </div>
+                <h1 class="text-3xl md:text-5xl font-bold tracking-tight">
+                  India <span class="gradient-text">AI & SWE</span> Off-Campus Tracker
+                </h1>
+                <p class="text-gray-400 mt-2 text-sm md:text-base max-w-2xl">
+                  Real-time direct ATS scrapers for 120+ top GenAI labs, Quant teams, high-paying product startups & GCCs in India.
+                </p>
+              </div>
+
+              {/* GitHub Link Button */}
+              <div class="flex items-center gap-3">
+                <a 
+                  href="https://github.com/EnvisDrako/India_Internship_Availability_Checker" 
+                  target="_blank" 
+                  rel="noreferrer"
+                  class="glass-card hover:bg-slate-800 text-white text-sm font-medium px-5 py-2.5 rounded-xl transition flex items-center gap-2 border border-slate-700"
+                >
+                  <svg class="w-5 h-5 fill-current" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+                  <span>Star Repository</span>
+                </a>
+              </div>
+            </div>
+
+            {/* Quick Metrics Bar */}
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mt-8">
+              <div class="glass-card p-4 rounded-2xl border border-slate-800">
+                <p class="text-xs font-medium text-gray-400 uppercase tracking-wider">Total Active Roles</p>
+                <p class="text-2xl md:text-3xl font-bold text-white mt-1">{stats.total}</p>
+              </div>
+              <div class="glass-card p-4 rounded-2xl border border-emerald-500/20 bg-emerald-500/5">
+                <p class="text-xs font-medium text-emerald-400 uppercase tracking-wider">High PPO Conversion</p>
+                <p class="text-2xl md:text-3xl font-bold text-emerald-400 mt-1">{stats.highPPO}</p>
+              </div>
+              <div class="glass-card p-4 rounded-2xl border border-purple-500/20 bg-purple-500/5">
+                <p class="text-xs font-medium text-purple-400 uppercase tracking-wider">AI / ML & GenAI</p>
+                <p class="text-2xl md:text-3xl font-bold text-purple-400 mt-1">{stats.aiCount}</p>
+              </div>
+              <div class="glass-card p-4 rounded-2xl border border-blue-500/20 bg-blue-500/5">
+                <p class="text-xs font-medium text-blue-400 uppercase tracking-wider">SDE & Systems</p>
+                <p class="text-2xl md:text-3xl font-bold text-blue-400 mt-1">{stats.sweCount}</p>
+              </div>
+            </div>
+          </header>
+
+          {/* Main Controls & Search */}
+          <main class="max-w-7xl mx-auto px-4 mt-4">
+            <div class="glass-card p-5 rounded-2xl mb-8 space-y-4">
+              {/* Search input */}
+              <div class="relative">
+                <input 
+                  type="text"
+                  placeholder="Search by company (e.g. Sarvam, Atlassian), role title, or location..."
+                  value={searchQuery}
+                  onChange={(e) => setSearchQuery(e.target.value)}
+                  class="w-full bg-slate-900/90 text-white placeholder-gray-500 text-sm md:text-base rounded-xl px-4 py-3.5 pl-11 border border-slate-700 focus:outline-none focus:border-blue-500 focus:ring-1 focus:ring-blue-500 transition"
+                />
+                <span class="absolute left-4 top-4 text-gray-500">
+                  🔍
+                </span>
+                {searchQuery && (
+                  <button 
+                    onClick={() => setSearchQuery('')}
+                    class="absolute right-4 top-3.5 text-gray-400 hover:text-white text-xs bg-slate-800 px-2 py-1 rounded-md"
+                  >
+                    Clear
+                  </button>
+                )}
+              </div>
+
+              {/* Filters grid */}
+              <div class="grid grid-cols-2 md:grid-cols-5 gap-3">
+                {/* Category Filter */}
+                <div>
+                  <label class="block text-xs font-semibold text-gray-400 mb-1">Category</label>
+                  <select 
+                    value={selectedCategory} 
+                    onChange={(e) => setSelectedCategory(e.target.value)}
+                    class="w-full bg-slate-900 border border-slate-700 text-xs md:text-sm text-gray-200 rounded-lg p-2.5 focus:border-blue-500"
+                  >
+                    <option value="All">All Categories</option>
+                    <option value="AI/ML & GenAI">AI/ML & GenAI</option>
+                    <option value="Software Engineering (Backend/Fullstack)">Software Engineering</option>
+                    <option value="Systems & Infrastructure/DevOps">Systems & DevOps</option>
+                    <option value="Data & Analytics">Data & Analytics</option>
+                  </select>
+                </div>
+
+                {/* Conversion Potential */}
+                <div>
+                  <label class="block text-xs font-semibold text-gray-400 mb-1">Conversion Type</label>
+                  <select 
+                    value={selectedPPO} 
+                    onChange={(e) => setSelectedPPO(e.target.value)}
+                    class="w-full bg-slate-900 border border-slate-700 text-xs md:text-sm text-gray-200 rounded-lg p-2.5 focus:border-blue-500"
+                  >
+                    <option value="All">All Types</option>
+                    <option value="High (PPO/FTE Path)">🔥 High PPO / Conversion</option>
+                    <option value="Standard Internship">Standard Internship</option>
+                    <option value="Direct FTE / New Grad">Direct FTE / New Grad</option>
+                  </select>
+                </div>
+
+                {/* Batch Filter */}
+                <div>
+                  <label class="block text-xs font-semibold text-gray-400 mb-1">Batch Eligibility</label>
+                  <select 
+                    value={selectedBatch} 
+                    onChange={(e) => setSelectedBatch(e.target.value)}
+                    class="w-full bg-slate-900 border border-slate-700 text-xs md:text-sm text-gray-200 rounded-lg p-2.5 focus:border-blue-500"
+                  >
+                    <option value="All">All Batches</option>
+                    <option value="2026">2026 Batch</option>
+                    <option value="2027">2027 Batch</option>
+                    <option value="2028">2028 Batch</option>
+                    <option value="2025">2025 Batch</option>
+                  </select>
+                </div>
+
+                {/* Location Filter */}
+                <div>
+                  <label class="block text-xs font-semibold text-gray-400 mb-1">Location Hub</label>
+                  <select 
+                    value={selectedLocation} 
+                    onChange={(e) => setSelectedLocation(e.target.value)}
+                    class="w-full bg-slate-900 border border-slate-700 text-xs md:text-sm text-gray-200 rounded-lg p-2.5 focus:border-blue-500"
+                  >
+                    <option value="All">All Locations</option>
+                    <option value="Bengaluru">Bengaluru</option>
+                    <option value="NCR (Delhi/Gurgaon/Noida)">NCR (Delhi/Gurgaon)</option>
+                    <option value="Hyderabad">Hyderabad</option>
+                    <option value="Pune">Pune</option>
+                    <option value="Mumbai">Mumbai</option>
+                    <option value="Remote (India)">Remote (India)</option>
+                  </select>
+                </div>
+
+                {/* Company Tier */}
+                <div>
+                  <label class="block text-xs font-semibold text-gray-400 mb-1">Company Tier</label>
+                  <select 
+                    value={selectedTier} 
+                    onChange={(e) => setSelectedTier(e.target.value)}
+                    class="w-full bg-slate-900 border border-slate-700 text-xs md:text-sm text-gray-200 rounded-lg p-2.5 focus:border-blue-500"
+                  >
+                    <option value="All">All Tiers</option>
+                    <option value="High-Paying Startup / AI Lab">AI Lab & High-Paying</option>
+                    <option value="Enterprise SaaS & DevTools">Enterprise SaaS</option>
+                    <option value="Global Capability Center (GCC)">GCC / Enterprise</option>
+                    <option value="Global Remote">Global Remote</option>
+                  </select>
+                </div>
+              </div>
+            </div>
+
+            {/* Active Results Summary */}
+            <div class="flex items-center justify-between mb-4 px-1">
+              <span class="text-sm font-medium text-gray-400">
+                Showing <strong class="text-white">{filteredListings.length}</strong> matching active roles
+              </span>
+              <button 
+                onClick={() => {
+                  setSearchQuery('');
+                  setSelectedCategory('All');
+                  setSelectedTier('All');
+                  setSelectedPPO('All');
+                  setSelectedBatch('All');
+                  setSelectedLocation('All');
+                }}
+                class="text-xs text-blue-400 hover:underline"
+              >
+                Reset All Filters
+              </button>
+            </div>
+
+            {/* Loading Spinner */}
+            {loading ? (
+              <div class="text-center py-20">
+                <div class="inline-block w-8 h-8 border-4 border-blue-500 border-t-transparent rounded-full animate-spin"></div>
+                <p class="text-gray-400 mt-4 text-sm">Fetching latest scraped roles...</p>
+              </div>
+            ) : filteredListings.length === 0 ? (
+              <div class="glass-card text-center py-16 px-4 rounded-2xl">
+                <p class="text-4xl mb-3">🔍</p>
+                <h3 class="text-lg font-semibold text-white">No matching active roles found</h3>
+                <p class="text-gray-400 text-sm mt-1">Try broadening your search query or resetting filters.</p>
+              </div>
+            ) : (
+              /* Roles Grid */
+              <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+                {filteredListings.map(item => (
+                  <div key={item.id} class="glass-card rounded-2xl p-5 flex flex-col justify-between glow-border transition-all duration-300">
+                    <div>
+                      {/* Card Header: Company & PPO Badge */}
+                      <div class="flex items-start justify-between gap-3 mb-3">
+                        <div>
+                          <span class="text-xs font-semibold text-blue-400 tracking-wider uppercase">{item.company}</span>
+                          <h2 class="text-base font-bold text-white mt-0.5 line-clamp-2 leading-snug">{item.title}</h2>
+                        </div>
+                        {item.conversion_potential === "High (PPO/FTE Path)" && (
+                          <span class="bg-rose-500/20 text-rose-400 border border-rose-500/30 text-[10px] font-bold px-2.5 py-1 rounded-full whitespace-nowrap shadow-sm">
+                            🔥 High PPO
+                          </span>
+                        )}
+                      </div>
+
+                      {/* Badges & Tags */}
+                      <div class="flex flex-wrap gap-1.5 mb-4">
+                        <span class="bg-slate-800 text-slate-300 text-xs px-2.5 py-1 rounded-md border border-slate-700">
+                          {item.category}
+                        </span>
+                        <span class="bg-slate-800 text-slate-300 text-xs px-2.5 py-1 rounded-md border border-slate-700">
+                          📍 {item.location.join(', ')}
+                        </span>
+                        {item.batch_eligibility.length > 0 && (
+                          <span class="bg-indigo-950/60 text-indigo-300 text-xs px-2.5 py-1 rounded-md border border-indigo-800">
+                            🎓 Batch {item.batch_eligibility.join(', ')}
+                          </span>
+                        )}
+                      </div>
+
+                      {/* Pay / Stipend Tag */}
+                      <div class="mb-4 bg-slate-900/60 p-2.5 rounded-xl border border-slate-800 flex items-center justify-between">
+                        <span class="text-xs text-gray-400 font-medium">Stipend / CTC</span>
+                        <span class="text-sm font-bold text-emerald-400">{item.stipend_or_ctc}</span>
+                      </div>
+                    </div>
+
+                    {/* Footer: Date & Apply Button */}
+                    <div class="pt-3 border-t border-slate-800/80 flex items-center justify-between mt-2">
+                      <span class="text-[11px] text-gray-500">
+                        {item.source} • Posted {item.date_posted}
+                      </span>
+                      <a 
+                        href={item.apply_url} 
+                        target="_blank" 
+                        rel="noreferrer"
+                        class="bg-blue-600 hover:bg-blue-500 text-white text-xs font-semibold px-4 py-2 rounded-xl transition flex items-center gap-1.5 shadow-md shadow-blue-600/20"
+                      >
+                        <span>Apply Direct</span>
+                        <span>↗</span>
+                      </a>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            )}
+          </main>
+        </div>
+      );
+    }
+
+    ReactDOM.createRoot(document.getElementById('root')).render(<App />);
+  </script>
+</body>
+</html>

@@ -1,0 +1,399 @@
+# Company Registry Configuration for Indian AI & SWE Roles
+# Contains ATS tokens and metadata for 120+ Top Product Companies, AI Labs, Quant Teams, and GCCs
+
+greenhouse:
+  # GenAI, AI Labs & DeepTech
+  - token: sarvam
+    name: Sarvam AI
+    tier: High-Paying Startup / AI Lab
+  - token: cohesity
+    name: Cohesity
+    tier: Enterprise SaaS & DevTools
+  - token: rubrik
+    name: Rubrik
+    tier: Enterprise SaaS & DevTools
+  - token: databricks
+    name: Databricks
+    tier: High-Paying Startup / AI Lab
+  - token: thoughtspot
+    name: ThoughtSpot
+    tier: Enterprise SaaS & DevTools
+  - token: inmobi
+    name: InMobi
+    tier: High-Paying Startup / AI Lab
+  
+  # High-Paying Product Giants & Quant Labs
+  - token: atlassian
+    name: Atlassian
+    tier: Enterprise SaaS & DevTools
+  - token: arcesium
+    name: Arcesium
+    tier: High-Paying Startup / AI Lab
+  - token: razorpay
+    name: Razorpay
+    tier: High-Paying Startup / AI Lab
+  - token: cred
+    name: CRED
+    tier: High-Paying Startup / AI Lab
+  - token: swiggy
+    name: Swiggy
+    tier: High-Paying Startup / AI Lab
+  - token: zomato
+    name: Zomato
+    tier: High-Paying Startup / AI Lab
+  - token: meesho
+    name: Meesho
+    tier: High-Paying Startup / AI Lab
+  - token: sprinklr
+    name: Sprinklr
+    tier: Enterprise SaaS & DevTools
+  - token: druva
+    name: Druva
+    tier: Enterprise SaaS & DevTools
+  - token: browserstack
+    name: BrowserStack
+    tier: Enterprise SaaS & DevTools
+  - token: freshworks
+    name: Freshworks
+    tier: Enterprise SaaS & DevTools
+  - token: chargebee
+    name: Chargebee
+    tier: Enterprise SaaS & DevTools
+  - token: nutanix
+    name: Nutanix
+    tier: Enterprise SaaS & DevTools
+  - token: snowflake
+    name: Snowflake
+    tier: High-Paying Startup / AI Lab
+  - token: hashicorp
+    name: HashiCorp
+    tier: Enterprise SaaS & DevTools
+  - token: mongodb
+    name: MongoDB
+    tier: Enterprise SaaS & DevTools
+  - token: confluent
+    name: Confluent
+    tier: Enterprise SaaS & DevTools
+  - token: datadog
+    name: Datadog
+    tier: Enterprise SaaS & DevTools
+  - token: cloudflare
+    name: Cloudflare
+    tier: Enterprise SaaS & DevTools
+  - token: twilio
+    name: Twilio
+    tier: Enterprise SaaS & DevTools
+  - token: stripe
+    name: Stripe
+    tier: High-Paying Startup / AI Lab
+  - token: elastic
+    name: Elastic
+    tier: Enterprise SaaS & DevTools
+  - token: purestorage
+    name: Pure Storage
+    tier: Enterprise SaaS & DevTools
+  - token: gitlab
+    name: GitLab
+    tier: Global Remote
+  - token: github
+    name: GitHub
+    tier: Global Remote
+  - token: snyk
+    name: Snyk
+    tier: Enterprise SaaS & DevTools
+  - token: okta
+    name: Okta
+    tier: Enterprise SaaS & DevTools
+  - token: dynatrace
+    name: Dynatrace
+    tier: Enterprise SaaS & DevTools
+  - token: pagerduty
+    name: PagerDuty
+    tier: Enterprise SaaS & DevTools
+  - token: fastly
+    name: Fastly
+    tier: Enterprise SaaS & DevTools
+  - token: couchbase
+    name: Couchbase
+    tier: Enterprise SaaS & DevTools
+  - token: cockpit
+    name: Cockpit
+    tier: Enterprise SaaS & DevTools
+  - token: sumo-logic
+    name: Sumo Logic
+    tier: Enterprise SaaS & DevTools
+  - token: newrelic
+    name: New Relic
+    tier: Enterprise SaaS & DevTools
+
+  # GCCs & Tech Hubs
+  - token: target
+    name: Target India
+    tier: Global Capability Center (GCC)
+  - token: lowes
+    name: Lowe's India
+    tier: Global Capability Center (GCC)
+  - token: walmartglobaltech
+    name: Walmart Global Tech
+    tier: Global Capability Center (GCC)
+  - token: fidelity
+    name: Fidelity Investments
+    tier: Global Capability Center (GCC)
+  - token: bny-mellon
+    name: BNY Mellon
+    tier: Global Capability Center (GCC)
+  - token: bazaarvoice
+    name: Bazaarvoice
+    tier: Global Capability Center (GCC)
+  - token: automated-insights
+    name: Automated Insights
+    tier: High-Paying Startup / AI Lab
+  - token: circleci
+    name: CircleCI
+    tier: Enterprise SaaS & DevTools
+
+lever:
+  # GenAI, AI Labs & DeepTech
+  - token: postman
+    name: Postman
+    tier: High-Paying Startup / AI Lab
+  - token: nvidia
+    name: Nvidia India
+    tier: High-Paying Startup / AI Lab
+  - token: amd
+    name: AMD India
+    tier: High-Paying Startup / AI Lab
+  - token: hasura
+    name: Hasura
+    tier: High-Paying Startup / AI Lab
+  - token: scaleai
+    name: Scale AI
+    tier: High-Paying Startup / AI Lab
+
+  # High-Paying Product Giants & Quant Labs
+  - token: medianet
+    name: Media.net
+    tier: High-Paying Startup / AI Lab
+  - token: deshaw
+    name: D. E. Shaw
+    tier: High-Paying Startup / AI Lab
+  - token: tower-research
+    name: Tower Research Capital
+    tier: High-Paying Startup / AI Lab
+  - token: graviton
+    name: Graviton Research Capital
+    tier: High-Paying Startup / AI Lab
+  - token: palantir
+    name: Palantir
+    tier: High-Paying Startup / AI Lab
+  - token: canonical
+    name: Canonical (Ubuntu)
+    tier: Global Remote
+  - token: sourcegraph
+    name: Sourcegraph
+    tier: Global Remote
+  - token: modular
+    name: Modular AI
+    tier: High-Paying Startup / AI Lab
+  - token: anyscale
+    name: Anyscale
+    tier: High-Paying Startup / AI Lab
+  - token: fireworks
+    name: Fireworks AI
+    tier: High-Paying Startup / AI Lab
+  - token: togetherai
+    name: Together AI
+    tier: High-Paying Startup / AI Lab
+  - token: modal
+    name: Modal Labs
+    tier: High-Paying Startup / AI Lab
+  - token: replicate
+    name: Replicate
+    tier: High-Paying Startup / AI Lab
+  - token: WeightsBiases
+    name: Weights & Biases
+    tier: High-Paying Startup / AI Lab
+  - token: langchain
+    name: LangChain
+    tier: High-Paying Startup / AI Lab
+  - token: llamaindex
+    name: LlamaIndex
+    tier: High-Paying Startup / AI Lab
+
+  # GCCs & Retail Tech
+  - token: mercedes-benz
+    name: Mercedes-Benz R&D India
+    tier: Global Capability Center (GCC)
+  - token: bosch
+    name: Bosch India
+    tier: Global Capability Center (GCC)
+  - token: valeo
+    name: Valeo India
+    tier: Global Capability Center (GCC)
+  - token: barclays
+    name: Barclays
+    tier: Global Capability Center (GCC)
+  - token: wells-fargo
+    name: Wells Fargo
+    tier: Global Capability Center (GCC)
+  - token: standardchartered
+    name: Standard Chartered
+    tier: Global Capability Center (GCC)
+
+ashby:
+  # GenAI, AI Labs & DeepTech
+  - token: krutrim
+    name: Krutrim AI
+    tier: High-Paying Startup / AI Lab
+  - token: mistral
+    name: Mistral AI
+    tier: High-Paying Startup / AI Lab
+  - token: cohere
+    name: Cohere
+    tier: High-Paying Startup / AI Lab
+  - token: pinecone
+    name: Pinecone
+    tier: High-Paying Startup / AI Lab
+  - token: perplexity
+    name: Perplexity AI
+    tier: High-Paying Startup / AI Lab
+  - token: linear
+    name: Linear
+    tier: High-Paying Startup / AI Lab
+  - token: ramp
+    name: Ramp
+    tier: High-Paying Startup / AI Lab
+  - token: replit
+    name: Replit
+    tier: High-Paying Startup / AI Lab
+  - token: cursor
+    name: Anysphere (Cursor)
+    tier: High-Paying Startup / AI Lab
+  - token: supabase
+    name: Supabase
+    tier: Global Remote
+  - token: resend
+    name: Resend
+    tier: Global Remote
+  - token: render
+    name: Render
+    tier: Enterprise SaaS & DevTools
+  - token: modal-labs
+    name: Modal
+    tier: High-Paying Startup / AI Lab
+  - token: vellum
+    name: Vellum AI
+    tier: High-Paying Startup / AI Lab
+  - token: tavus
+    name: Tavus AI
+    tier: High-Paying Startup / AI Lab
+  - token: lumaai
+    name: Luma AI
+    tier: High-Paying Startup / AI Lab
+  - token: runwayml
+    name: Runway ML
+    tier: High-Paying Startup / AI Lab
+  - token: elevenlabs
+    name: ElevenLabs
+    tier: High-Paying Startup / AI Lab
+  - token: deepgram
+    name: Deepgram
+    tier: High-Paying Startup / AI Lab
+  - token: assemblyai
+    name: AssemblyAI
+    tier: High-Paying Startup / AI Lab
+
+smartrecruiters:
+  # GCCs & Large Tech Enterprises
+  - token: Target
+    name: Target Corporation
+    tier: Global Capability Center (GCC)
+  - token: BoschGroup
+    name: Bosch Group
+    tier: Global Capability Center (GCC)
+  - token: Valeo
+    name: Valeo
+    tier: Global Capability Center (GCC)
+  - token: Visa
+    name: Visa India
+    tier: Global Capability Center (GCC)
+  - token: Mastercard
+    name: Mastercard India
+    tier: Global Capability Center (GCC)
+  - token: Paypal
+    name: PayPal India
+    tier: Global Capability Center (GCC)
+  - token: eBay
+    name: eBay India
+    tier: Global Capability Center (GCC)
+  - token: Autodesk
+    name: Autodesk
+    tier: Enterprise SaaS & DevTools
+  - token: Adobe
+    name: Adobe India
+    tier: Enterprise SaaS & DevTools
+  - token: Intuit
+    name: Intuit India
+    tier: Enterprise SaaS & DevTools
+  - token: Salesforce
+    name: Salesforce India
+    tier: Enterprise SaaS & DevTools
+  - token: Cisco
+    name: Cisco Systems
+    tier: Enterprise SaaS & DevTools
+  - token: VMware
+    name: Broadcom / VMware
+    tier: Enterprise SaaS & DevTools
+  - token: Siemens
+    name: Siemens Healthineers
+    tier: Global Capability Center (GCC)
+  - token: SchneiderElectric
+    name: Schneider Electric
+    tier: Global Capability Center (GCC)
+  - token: Philips
+    name: Philips Innovation Campus
+    tier: Global Capability Center (GCC)
+  - token: Honeywell
+    name: Honeywell India
+    tier: Global Capability Center (GCC)
+  - token: ABB
+    name: ABB India
+    tier: Global Capability Center (GCC)
+  - token: GE
+    name: GE Healthcare
+    tier: Global Capability Center (GCC)
+  - token: Qualcomm
+    name: Qualcomm India
+    tier: High-Paying Startup / AI Lab
+  - token: Intel
+    name: Intel India
+    tier: High-Paying Startup / AI Lab
+  - token: TexasInstruments
+    name: Texas Instruments India
+    tier: High-Paying Startup / AI Lab
+  - token: Arm
+    name: ARM India
+    tier: High-Paying Startup / AI Lab
+  - token: AppliedMaterials
+    name: Applied Materials
+    tier: Global Capability Center (GCC)
+  - token: LamResearch
+    name: Lam Research
+    tier: Global Capability Center (GCC)
+  - token: ASML
+    name: ASML
+    tier: High-Paying Startup / AI Lab
+  - token: Synopsys
+    name: Synopsys
+    tier: Enterprise SaaS & DevTools
+  - token: Cadence
+    name: Cadence Design Systems
+    tier: Enterprise SaaS & DevTools
+
+github_repos:
+  - name: SimplifyJobs Open Source Feed
+    url: https://raw.githubusercontent.com/SimplifyJobs/Summer2025-Internships/main/README.md
+    type: markdown_table
+  - name: SpeedyApply Off-Campus Feed
+    url: https://raw.githubusercontent.com/speedyapply/2025-SWE-College-Jobs/main/README.md
+    type: markdown_table
