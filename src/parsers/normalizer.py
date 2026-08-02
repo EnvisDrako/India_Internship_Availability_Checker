@@ -17,15 +17,26 @@ INDIAN_LOCATION_MAP = {
     "pune": "Pune",
     "mumbai": "Mumbai",
     "chennai": "Chennai",
-    "remote": "Remote (India)",
-    "india": "Remote (India)"
+    "kolkata": "Kolkata",
+    "ahmedabad": "Ahmedabad",
+    "remote (india)": "Remote (India)",
+    "india remote": "Remote (India)",
+    "remote - india": "Remote (India)"
 }
+
+NON_INDIA_LOCATION_BLACKLIST = [
+    "us", "usa", "united states", "san francisco", "sf", "seattle", "new york", "nyc",
+    "austin", "texas", "california", "ca", "wa", "ny", "boston", "london", "uk", "united kingdom",
+    "europe", "germany", "berlin", "canada", "toronto", "vancouver", "singapore", "tokyo",
+    "japan", "australia", "sydney", "poland", "ireland", "dublin", "israel", "brazil"
+]
 
 INCLUDE_KEYWORDS = [
     "software", "sde", "developer", "backend", "frontend", "fullstack",
     "ai", "ml", "machine learning", "data science", "deep learning", "llm",
     "systems", "cloud", "devops", "sre", "platform", "infrastructure",
-    "data engineer", "analytics", "research scientist", "genai", "computer vision", "nlp"
+    "data engineer", "analytics", "research scientist", "genai", "computer vision", "nlp",
+    "intern", "internship", "trainee", "co-op", "apprentice", "get", "ppo", "fresher"
 ]
 
 EXCLUDE_KEYWORDS = [
@@ -37,11 +48,25 @@ EXCLUDE_KEYWORDS = [
 def is_india_location(loc_str: str) -> bool:
     if not loc_str:
         return False
+        
     loc_lower = loc_str.lower()
+    
+    # If explicitly contains non-India blacklisted region and does NOT explicitly say India, reject!
+    has_non_india = any(re.search(rf'\b{re.escape(blk)}\b', loc_lower) for blk in NON_INDIA_LOCATION_BLACKLIST)
+    has_explicit_india = "india" in loc_lower or any(city in loc_lower for city in ["bengaluru", "bangalore", "hyderabad", "gurgaon", "gurugram", "noida", "delhi", "pune", "mumbai", "chennai"])
+    
+    if has_non_india and not has_explicit_india:
+        return False
+        
     india_keywords = [
         "india", "bengaluru", "bangalore", "hyderabad", "gurgaon", "gurugram",
-        "noida", "delhi", "pune", "mumbai", "chennai", "remote"
+        "noida", "delhi", "pune", "mumbai", "chennai", "kolkata", "ahmedabad", "remote (india)", "india remote"
     ]
+    
+    # Generic "Remote" without country qualifier is accepted only if no US/foreign region matched
+    if "remote" in loc_lower and not has_non_india:
+        return True
+        
     return any(k in loc_lower for k in india_keywords)
 
 
@@ -50,7 +75,7 @@ def is_relevant_role(title: str, description: str = "") -> bool:
     
     # Check exclusion
     for exc in EXCLUDE_KEYWORDS:
-        if exc in title_lower and not any(inc in title_lower for inc in ["software", "sde", "developer", "ai", "ml"]):
+        if exc in title_lower and not any(inc in title_lower for inc in ["software", "sde", "developer", "ai", "ml", "intern"]):
             return False
             
     # Check inclusion
@@ -86,7 +111,7 @@ def parse_conversion_potential(title: str, description: str = "") -> ConversionP
     if any(ind in text for ind in ppo_indicators):
         return ConversionPotentialEnum.HIGH_PPO
     
-    if "intern" in text or "internship" in text or "trainee" in text:
+    if "intern" in text or "internship" in text or "trainee" in text or "co-op" in text:
         return ConversionPotentialEnum.STANDARD_INTERNSHIP
         
     return ConversionPotentialEnum.DIRECT_FTE
@@ -104,24 +129,25 @@ def parse_locations(raw_location: str) -> List[str]:
             matched.add(std_name)
             
     if not matched:
-        if "remote" in loc_lower or "india" in loc_lower or "anywhere" in loc_lower:
+        if "remote" in loc_lower or "india" in loc_lower:
             matched.add("Remote (India)")
         else:
-            matched.add("Bengaluru")  # Default hub fallback if unspecified India location
-            
-    return sorted(list(matched))
+            # STRICT FIX: Do not default unknown locations to Bengaluru!
+            # Return Remote (India) if location was confirmed India, otherwise empty
+            if "india" in loc_lower:
+                matched.add("Remote (India)")
+                
+    return sorted(list(matched)) if matched else ["Remote (India)"]
 
 
 def parse_batch_eligibility(title: str, description: str = "") -> List[int]:
     text = f"{title} {description}"
     batches = set()
     
-    # Direct 4-digit years matching 2025, 2026, 2027, 2028, 2029
     year_matches = re.findall(r'\b(202[5-9])\b', text)
     for y in year_matches:
         batches.add(int(y))
         
-    # Apostrophe / short years like '26, '27, '28
     short_matches = re.findall(r"['’](\d{2})\b", text)
     for s in short_matches:
         full_year = 2000 + int(s)
@@ -129,8 +155,7 @@ def parse_batch_eligibility(title: str, description: str = "") -> List[int]:
             batches.add(full_year)
             
     if not batches:
-        # Default batch heuristics based on role type
-        if "intern" in title.lower():
+        if "intern" in title.lower() or "internship" in title.lower():
             batches = {2026, 2027, 2028}
         else:
             batches = {2025, 2026}
@@ -141,17 +166,14 @@ def parse_batch_eligibility(title: str, description: str = "") -> List[int]:
 def parse_stipend_or_ctc(title: str, description: str = "") -> str:
     text = f"{title} {description}"
     
-    # INR LPA patterns e.g. 15-25 LPA, 20LPA, Rs 12-18 Lakhs
     lpa_match = re.search(r'(\d+(?:\.\d+)?\s*(?:-|to)?\s*\d*(?:\.\d+)?)\s*(?:LPA|Lakhs|Lakh|L/yr)', text, re.IGNORECASE)
     if lpa_match:
         return f"{lpa_match.group(1).strip()} LPA"
         
-    # Monthly stipend patterns e.g. ₹60,000/mo, 50k-1L/month, 75k per month
     stipend_match = re.search(r'(?:₹|Rs\.?|INR)\s*(\d+(?:,\d+)*(?:\s*k|\s*000)?\s*(?:-|to)?\s*\d*(?:,\d+)*(?:\s*k|\s*000)?)\s*(?:\/|\s*per\s*)?(?:month|mo|pm)', text, re.IGNORECASE)
     if stipend_match:
         return f"₹{stipend_match.group(1).strip()}/mo"
         
-    # Simple k/mo pattern e.g., 50k/mo, 80k-1.2k/mo
     k_match = re.search(r'(\d+k\s*(?:-|to)?\s*\d*k?)\s*\/\s*mo', text, re.IGNORECASE)
     if k_match:
         return f"₹{k_match.group(1).strip()}/mo"

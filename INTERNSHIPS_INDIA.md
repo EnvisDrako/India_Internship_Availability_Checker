@@ -1,20 +1,7 @@
-# 🚀 Automated India AI & SWE Internship/Off-Campus Tracker
+# 🎓 Indian Internships & PPO Off-Campus Roles
 
-> **PPO & High-Conversion Focus** | Auto-scraped & normalized every 6 hours via GitHub Actions  
-> **Live Web Dashboard:** [https://india-internship-availability-checker.vercel.app](index.html) *(Updated: 2026-08-02 22:39:11 IST)*
-
----
-
-## 📊 Live Overview & Quick Metrics
-- ⚡ **Total Active Roles (India):** `393`
-- 🎓 **Indian Internships & Trainee Roles:** `40`
-- 🔥 **High PPO / FTE Conversion Roles:** `25`
-- 🤖 **AI / ML & GenAI Opportunities:** `109`
-- 💻 **Software & Systems Engineering Roles:** `267`
-
----
-
-## 🎓 Featured Indian Internships & PPOs
+> Auto-generated tracker for Software Engineering and AI/ML Internships, Co-Ops, and Trainee roles in India.  
+> **Updated:** `2026-08-02 22:39:11 IST`
 
 | Company | Role Title | Category | Location | Eligible Batches | Stipend / CTC | Conversion | Apply Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -43,28 +30,18 @@
 | **Twilio** | Technical Support Expert 2 | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/8052668) |
 | **Twilio** | Technical Support Expert 3 | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/8055895) |
 | **Databricks** | Senior Designated Support Engineer | Software Engineering (Backend/Fullstack) | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://databricks.com/company/careers/open-positions/job?gh_jid=8564166002) |
-
----
-
-## 📂 Quick Navigation Categories
-- 🎓 **[View All Indian Internships](INTERNSHIPS_INDIA.md)** (`40` open)
-- 🤖 **[View All AI & ML Roles](AI_AND_ML_ROLES.md)** (`109` open)
-- 💻 **[View All SDE & Systems Roles](SDE_AND_SYSTEMS.md)** (`267` open)
-
----
-
-## 🏛️ Top Employers & Tiers Tracked
-- **GenAI Startups & AI Labs:** Sarvam AI, Krutrim, Cohesity, Rubrik, Databricks, Nvidia, AMD, Postman.
-- **High-Paying Product Giants & Quant Labs:** Atlassian, Arcesium, Media.net, DE Shaw, Tower Research, Graviton, Razorpay, CRED, Swiggy, Zomato, Meesho, Sprinklr, BrowserStack, Hasura.
-- **Global Tech GCCs:** Target India, Lowe's, Walmart Global Tech, Fidelity, BNY Mellon, Barclays, Wells Fargo, Mercedes-Benz, Bosch, Valeo.
-
----
-
-## ⚙️ How It Works (Fully Autonomous Pipeline)
-1. **Scrapes Public ATS APIs:** Queries Greenhouse, Lever, Ashby, and SmartRecruiters for 120+ Indian Tech Employers & Quant teams.
-2. **Open-Source Secondary Feeds:** Ingests raw listings from specialized Indian off-campus and internship repos.
-3. **Strict Location Filtering:** Enforces zero US/Global location leakage — only retains verified Indian tech hubs and Remote (India) roles.
-4. **Auto-Deploy:** Rebuilds Markdown dashboards and deploys the Vercel & GitHub Pages web app.
-
----
-*Disclaimer: All job listings redirect directly to the official employer career portals.*
+| **GitLab** | Director, Support (Bengaluru) | Software Engineering (Backend/Fullstack) | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/gitlab/jobs/8629019002) |
+| **Stripe** | Software Engineer, Internal Systems | Systems & Infrastructure/DevOps | Bengaluru, Remote (India) | `2026, 2027, 2028` | Disclosed | 🎓 Internship | [Apply Now 🚀](https://stripe.com/jobs/search?gh_jid=7543868) |
+| **GitLab** | Director, Support (EMEA) | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/gitlab/jobs/8629005002) |
+| **GitLab** | Senior Assigned Support Engineer (EMEA) | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/gitlab/jobs/8645825002) |
+| **Stripe** | Software Engineer, Intern | Software Engineering (Backend/Fullstack) | Bengaluru | `2026, 2027, 2028` | Disclosed | 🎓 Internship | [Apply Now 🚀](https://stripe.com/jobs/search?gh_jid=8031833) |
+| **GitLab** | Senior Internal Auditor, Technology | Software Engineering (Backend/Fullstack) | Remote (India) | `2026, 2027, 2028` | Disclosed | 🎓 Internship | [Apply Now 🚀](https://job-boards.greenhouse.io/gitlab/jobs/8643077002) |
+| **GitLab** | Lead Internal Events & Production Strategist | Software Engineering (Backend/Fullstack) | Remote (India) | `2026, 2027, 2028` | Disclosed | 🎓 Internship | [Apply Now 🚀](https://job-boards.greenhouse.io/gitlab/jobs/8617777002) |
+| **GitLab** | Support Engineer (AMER) | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/gitlab/jobs/8654230002) |
+| **GitLab** | Support Engineer, U.S. Government Support | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/gitlab/jobs/8628780002) |
+| **Databricks** | Staff Designated Support Engineer | Software Engineering (Backend/Fullstack) | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://databricks.com/company/careers/open-positions/job?gh_jid=8554463002) |
+| **GitLab** | Senior Manager, Internal Audit - Audit Automation & Technology Risk | Software Engineering (Backend/Fullstack) | Bengaluru | `2026, 2027, 2028` | Disclosed | 🎓 Internship | [Apply Now 🚀](https://job-boards.greenhouse.io/gitlab/jobs/8642850002) |
+| **Stripe** | Global People Support - Team Lead | Software Engineering (Backend/Fullstack) | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://stripe.com/jobs/search?gh_jid=7553098) |
+| **Stripe** | Product Support Operations Associate, Weekend Shift | Software Engineering (Backend/Fullstack) | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://stripe.com/jobs/search?gh_jid=7975698) |
+| **Stripe** | Product Support Operations, Team Lead | Software Engineering (Backend/Fullstack) | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://stripe.com/jobs/search?gh_jid=7390485) |
+| **MongoDB** | Lead Engineer, Internal Engineering | Software Engineering (Backend/Fullstack) | NCR (Delhi/Gurgaon/Noida) | `2026, 2027, 2028` | Disclosed | 🎓 Internship | [Apply Now 🚀](https://www.mongodb.com/careers/job/?gh_jid=7541875) |

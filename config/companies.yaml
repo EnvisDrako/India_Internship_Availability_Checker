@@ -107,24 +107,6 @@ greenhouse:
   - token: dynatrace
     name: Dynatrace
     tier: Enterprise SaaS & DevTools
-  - token: pagerduty
-    name: PagerDuty
-    tier: Enterprise SaaS & DevTools
-  - token: fastly
-    name: Fastly
-    tier: Enterprise SaaS & DevTools
-  - token: couchbase
-    name: Couchbase
-    tier: Enterprise SaaS & DevTools
-  - token: cockpit
-    name: Cockpit
-    tier: Enterprise SaaS & DevTools
-  - token: sumo-logic
-    name: Sumo Logic
-    tier: Enterprise SaaS & DevTools
-  - token: newrelic
-    name: New Relic
-    tier: Enterprise SaaS & DevTools
 
   # GCCs & Tech Hubs
   - token: target
@@ -145,12 +127,6 @@ greenhouse:
   - token: bazaarvoice
     name: Bazaarvoice
     tier: Global Capability Center (GCC)
-  - token: automated-insights
-    name: Automated Insights
-    tier: High-Paying Startup / AI Lab
-  - token: circleci
-    name: CircleCI
-    tier: Enterprise SaaS & DevTools
 
 lever:
   # GenAI, AI Labs & DeepTech
@@ -183,42 +159,12 @@ lever:
   - token: graviton
     name: Graviton Research Capital
     tier: High-Paying Startup / AI Lab
-  - token: palantir
-    name: Palantir
-    tier: High-Paying Startup / AI Lab
   - token: canonical
     name: Canonical (Ubuntu)
     tier: Global Remote
   - token: sourcegraph
     name: Sourcegraph
     tier: Global Remote
-  - token: modular
-    name: Modular AI
-    tier: High-Paying Startup / AI Lab
-  - token: anyscale
-    name: Anyscale
-    tier: High-Paying Startup / AI Lab
-  - token: fireworks
-    name: Fireworks AI
-    tier: High-Paying Startup / AI Lab
-  - token: togetherai
-    name: Together AI
-    tier: High-Paying Startup / AI Lab
-  - token: modal
-    name: Modal Labs
-    tier: High-Paying Startup / AI Lab
-  - token: replicate
-    name: Replicate
-    tier: High-Paying Startup / AI Lab
-  - token: WeightsBiases
-    name: Weights & Biases
-    tier: High-Paying Startup / AI Lab
-  - token: langchain
-    name: LangChain
-    tier: High-Paying Startup / AI Lab
-  - token: llamaindex
-    name: LlamaIndex
-    tier: High-Paying Startup / AI Lab
 
   # GCCs & Retail Tech
   - token: mercedes-benz
@@ -236,12 +182,8 @@ lever:
   - token: wells-fargo
     name: Wells Fargo
     tier: Global Capability Center (GCC)
-  - token: standardchartered
-    name: Standard Chartered
-    tier: Global Capability Center (GCC)
 
 ashby:
-  # GenAI, AI Labs & DeepTech
   - token: krutrim
     name: Krutrim AI
     tier: High-Paying Startup / AI Lab
@@ -257,54 +199,8 @@ ashby:
   - token: perplexity
     name: Perplexity AI
     tier: High-Paying Startup / AI Lab
-  - token: linear
-    name: Linear
-    tier: High-Paying Startup / AI Lab
-  - token: ramp
-    name: Ramp
-    tier: High-Paying Startup / AI Lab
-  - token: replit
-    name: Replit
-    tier: High-Paying Startup / AI Lab
-  - token: cursor
-    name: Anysphere (Cursor)
-    tier: High-Paying Startup / AI Lab
-  - token: supabase
-    name: Supabase
-    tier: Global Remote
-  - token: resend
-    name: Resend
-    tier: Global Remote
-  - token: render
-    name: Render
-    tier: Enterprise SaaS & DevTools
-  - token: modal-labs
-    name: Modal
-    tier: High-Paying Startup / AI Lab
-  - token: vellum
-    name: Vellum AI
-    tier: High-Paying Startup / AI Lab
-  - token: tavus
-    name: Tavus AI
-    tier: High-Paying Startup / AI Lab
-  - token: lumaai
-    name: Luma AI
-    tier: High-Paying Startup / AI Lab
-  - token: runwayml
-    name: Runway ML
-    tier: High-Paying Startup / AI Lab
-  - token: elevenlabs
-    name: ElevenLabs
-    tier: High-Paying Startup / AI Lab
-  - token: deepgram
-    name: Deepgram
-    tier: High-Paying Startup / AI Lab
-  - token: assemblyai
-    name: AssemblyAI
-    tier: High-Paying Startup / AI Lab
 
 smartrecruiters:
-  # GCCs & Large Tech Enterprises
   - token: Target
     name: Target Corporation
     tier: Global Capability Center (GCC)
@@ -323,77 +219,17 @@ smartrecruiters:
   - token: Paypal
     name: PayPal India
     tier: Global Capability Center (GCC)
-  - token: eBay
-    name: eBay India
-    tier: Global Capability Center (GCC)
-  - token: Autodesk
-    name: Autodesk
-    tier: Enterprise SaaS & DevTools
-  - token: Adobe
-    name: Adobe India
-    tier: Enterprise SaaS & DevTools
-  - token: Intuit
-    name: Intuit India
-    tier: Enterprise SaaS & DevTools
-  - token: Salesforce
-    name: Salesforce India
-    tier: Enterprise SaaS & DevTools
-  - token: Cisco
-    name: Cisco Systems
-    tier: Enterprise SaaS & DevTools
-  - token: VMware
-    name: Broadcom / VMware
-    tier: Enterprise SaaS & DevTools
-  - token: Siemens
-    name: Siemens Healthineers
-    tier: Global Capability Center (GCC)
-  - token: SchneiderElectric
-    name: Schneider Electric
-    tier: Global Capability Center (GCC)
-  - token: Philips
-    name: Philips Innovation Campus
-    tier: Global Capability Center (GCC)
-  - token: Honeywell
-    name: Honeywell India
-    tier: Global Capability Center (GCC)
-  - token: ABB
-    name: ABB India
-    tier: Global Capability Center (GCC)
-  - token: GE
-    name: GE Healthcare
-    tier: Global Capability Center (GCC)
-  - token: Qualcomm
-    name: Qualcomm India
-    tier: High-Paying Startup / AI Lab
-  - token: Intel
-    name: Intel India
-    tier: High-Paying Startup / AI Lab
-  - token: TexasInstruments
-    name: Texas Instruments India
-    tier: High-Paying Startup / AI Lab
-  - token: Arm
-    name: ARM India
-    tier: High-Paying Startup / AI Lab
-  - token: AppliedMaterials
-    name: Applied Materials
-    tier: Global Capability Center (GCC)
-  - token: LamResearch
-    name: Lam Research
-    tier: Global Capability Center (GCC)
-  - token: ASML
-    name: ASML
-    tier: High-Paying Startup / AI Lab
-  - token: Synopsys
-    name: Synopsys
-    tier: Enterprise SaaS & DevTools
-  - token: Cadence
-    name: Cadence Design Systems
-    tier: Enterprise SaaS & DevTools
 
 github_repos:
-  - name: SimplifyJobs Open Source Feed
+  - name: India Off-Campus & Internships Repository
+    url: https://raw.githubusercontent.com/Bishakh01/Off-Campus-Jobs-India/main/README.md
+    type: markdown_table
+  - name: India Tech Internships Repository
+    url: https://raw.githubusercontent.com/hrishikesh-s/India-Tech-Internships/main/README.md
+    type: markdown_table
+  - name: SimplifyJobs Feed (India Filtered)
     url: https://raw.githubusercontent.com/SimplifyJobs/Summer2025-Internships/main/README.md
     type: markdown_table
-  - name: SpeedyApply Off-Campus Feed
+  - name: SpeedyApply Feed (India Filtered)
     url: https://raw.githubusercontent.com/speedyapply/2025-SWE-College-Jobs/main/README.md
     type: markdown_table

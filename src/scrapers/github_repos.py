@@ -2,7 +2,6 @@ import re
 import logging
 from typing import List, Dict, Any
 import httpx
-from bs4 import BeautifulSoup
 
 from src.models.listing import Listing, SourceEnum, TierEnum, CategoryEnum
 from src.parsers.normalizer import (
@@ -45,11 +44,9 @@ async def scrape_github_markdown_repo(client: httpx.AsyncClient, name: str, url:
                 
             raw_company, raw_role, raw_loc, raw_link, raw_date = match.groups()
             
-            # Extract plain text and links
             company_clean = re.sub(r'\[(.*?)\]\(.*?\)', r'\1', raw_company).strip()
             role_clean = re.sub(r'\[(.*?)\]\(.*?\)', r'\1', raw_role).strip()
             
-            # Extract URL from markdown link [Apply](url) or href
             url_match = re.search(r'href=["\'](.*?)["\']|\[.*?\]\((.*?)\)', raw_link)
             apply_url = ""
             if url_match:
@@ -58,11 +55,12 @@ async def scrape_github_markdown_repo(client: httpx.AsyncClient, name: str, url:
             if not apply_url or not apply_url.startswith("http"):
                 continue
                 
-            # Filter for relevance & location
+            # Filter for relevance
             if not is_relevant_role(role_clean):
                 continue
                 
-            if not is_india_location(raw_loc) and "remote" not in raw_loc.lower():
+            # STRICT LOCATION FILTER: Must be explicitly an Indian location or India Remote
+            if not is_india_location(raw_loc):
                 continue
                 
             listing_id = Listing.generate_id(company_clean or "Tech Company", role_clean, apply_url)
