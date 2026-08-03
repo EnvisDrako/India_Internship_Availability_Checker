@@ -40,9 +40,9 @@
     "is_active": true
   },
   {
-    "id": "52106b4bd9b147ede1340fec26f633fb",
+    "id": "84c26b4703f3dab989816f6b0fce6730",
     "company": "Twilio",
-    "title": "Supportability Engineer 3",
+    "title": "Technical Support Engineer 1",
     "category": "Software Engineering (Backend/Fullstack)",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "High (PPO/FTE Path)",
@@ -54,7 +54,27 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7520866",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8016229",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
+    "id": "35a4d7abab470925de529e05ff6a52a0",
+    "company": "Twilio",
+    "title": "Technical Support Engineer 2",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "High (PPO/FTE Path)",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7917665",
     "source": "Greenhouse",
     "date_posted": "2026-07-31",
     "is_active": true
@@ -80,6 +100,26 @@
     "is_active": true
   },
   {
+    "id": "232c46d157b98ef87f3620540e0e853f",
+    "company": "Twilio",
+    "title": "Technical Support Expert 2",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "High (PPO/FTE Path)",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7993860",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
     "id": "30db850b7845f13674ebe2970f8c9d99",
     "company": "Twilio",
     "title": "Technical Support Expert 3",
@@ -100,9 +140,9 @@
     "is_active": true
   },
   {
-    "id": "84c26b4703f3dab989816f6b0fce6730",
+    "id": "52106b4bd9b147ede1340fec26f633fb",
     "company": "Twilio",
-    "title": "Technical Support Engineer 1",
+    "title": "Supportability Engineer 3",
     "category": "Software Engineering (Backend/Fullstack)",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "High (PPO/FTE Path)",
@@ -114,7 +154,27 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8016229",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7520866",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
+    "id": "991b298189f3dc917070c9add456d008",
+    "company": "Twilio",
+    "title": "Technical Support Expert 2",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "High (PPO/FTE Path)",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8052668",
     "source": "Greenhouse",
     "date_posted": "2026-07-31",
     "is_active": true
@@ -160,26 +220,6 @@
     "is_active": true
   },
   {
-    "id": "35a4d7abab470925de529e05ff6a52a0",
-    "company": "Twilio",
-    "title": "Technical Support Engineer 2",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "High (PPO/FTE Path)",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7917665",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
     "id": "d87f928603b2126a1f58de7380f6df17",
     "company": "Twilio",
     "title": "Technical Support Expert 2",
@@ -195,46 +235,6 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7966810",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
-    "id": "31e5039e5ea2aa245460cbfb15a0a5f9",
-    "company": "GitLab",
-    "title": "Senior Assigned Support Engineer (EMEA)",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Global Remote",
-    "conversion_potential": "High (PPO/FTE Path)",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8645825002",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
-    "id": "232c46d157b98ef87f3620540e0e853f",
-    "company": "Twilio",
-    "title": "Technical Support Expert 2",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "High (PPO/FTE Path)",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7993860",
     "source": "Greenhouse",
     "date_posted": "2026-07-31",
     "is_active": true
@@ -260,11 +260,11 @@
     "is_active": true
   },
   {
-    "id": "991b298189f3dc917070c9add456d008",
-    "company": "Twilio",
-    "title": "Technical Support Expert 2",
+    "id": "31e5039e5ea2aa245460cbfb15a0a5f9",
+    "company": "GitLab",
+    "title": "Senior Assigned Support Engineer (EMEA)",
     "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
+    "tier": "Global Remote",
     "conversion_potential": "High (PPO/FTE Path)",
     "location": [
       "Remote (India)"
@@ -274,7 +274,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8052668",
+    "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8645825002",
     "source": "Greenhouse",
     "date_posted": "2026-07-31",
     "is_active": true
@@ -321,26 +321,6 @@
     "is_active": true
   },
   {
-    "id": "18c6ec19432078a11e55c40f68aeee30",
-    "company": "Stripe",
-    "title": "Product Support Operations, Team Lead",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "High (PPO/FTE Path)",
-    "location": [
-      "Bengaluru"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://stripe.com/jobs/search?gh_jid=7390485",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-27",
-    "is_active": true
-  },
-  {
     "id": "e1966199edc0a2f91da2903ce486817e",
     "company": "Stripe",
     "title": "Global People Support - Team Lead",
@@ -356,6 +336,26 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://stripe.com/jobs/search?gh_jid=7553098",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-27",
+    "is_active": true
+  },
+  {
+    "id": "18c6ec19432078a11e55c40f68aeee30",
+    "company": "Stripe",
+    "title": "Product Support Operations, Team Lead",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "High (PPO/FTE Path)",
+    "location": [
+      "Bengaluru"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7390485",
     "source": "Greenhouse",
     "date_posted": "2026-07-27",
     "is_active": true
@@ -381,26 +381,6 @@
     "is_active": true
   },
   {
-    "id": "677ec1a6f81584de405106c72a0f25fd",
-    "company": "Databricks",
-    "title": "Senior Designated Support Engineer",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "High (PPO/FTE Path)",
-    "location": [
-      "Bengaluru"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8564166002",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-24",
-    "is_active": true
-  },
-  {
     "id": "298fdfc26fa0a35b65022636128ae7bd",
     "company": "Databricks",
     "title": "Staff Designated Support Engineer",
@@ -416,6 +396,26 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8554463002",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-24",
+    "is_active": true
+  },
+  {
+    "id": "677ec1a6f81584de405106c72a0f25fd",
+    "company": "Databricks",
+    "title": "Senior Designated Support Engineer",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "High (PPO/FTE Path)",
+    "location": [
+      "Bengaluru"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8564166002",
     "source": "Greenhouse",
     "date_posted": "2026-07-24",
     "is_active": true
@@ -501,27 +501,6 @@
     "is_active": true
   },
   {
-    "id": "cbbea0846c6eccf3efe8c156614b9fe7",
-    "company": "Fastly",
-    "title": "Business Systems Analyst",
-    "category": "Systems & Infrastructure/DevOps",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Pune",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=7912529",
-    "source": "Greenhouse",
-    "date_posted": "2026-08-01",
-    "is_active": true
-  },
-  {
     "id": "1e330ba4da5443d091c08f0359d2055c",
     "company": "Fastly",
     "title": "Senior Business Systems Analyst - GTM",
@@ -543,13 +522,14 @@
     "is_active": true
   },
   {
-    "id": "df723d6708dae99ff1a7a6f6a78e7b53",
-    "company": "Pinecone",
-    "title": "Senior/Staff Software Engineer, Search & Retrieval Infrastructure",
+    "id": "cbbea0846c6eccf3efe8c156614b9fe7",
+    "company": "Fastly",
+    "title": "Business Systems Analyst",
     "category": "Systems & Infrastructure/DevOps",
-    "tier": "High-Paying Startup / AI Lab",
+    "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
+      "Pune",
       "Remote (India)"
     ],
     "batch_eligibility": [
@@ -557,88 +537,8 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/pinecone/7ef089cb-a721-4ad8-a6d0-c390e64991d2",
-    "source": "Ashby",
-    "date_posted": "2026-08-01",
-    "is_active": true
-  },
-  {
-    "id": "45f8f831fbb42b2894ee671fb3793304",
-    "company": "Pinecone",
-    "title": "Senior/Staff Software Engineer, Experience",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/pinecone/773e953d-8f53-4313-93b4-35a553bad1cb",
-    "source": "Ashby",
-    "date_posted": "2026-08-01",
-    "is_active": true
-  },
-  {
-    "id": "3ed1dae5e23ea17dc77d4d4c242bfe68",
-    "company": "Ramp",
-    "title": "Software Engineer, Argentina",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/ramp/9320454f-f2ca-4c19-82d2-b51b8d75fd3a",
-    "source": "Ashby",
-    "date_posted": "2026-08-01",
-    "is_active": true
-  },
-  {
-    "id": "978236103c8040c07e5f5ea4847e7ed8",
-    "company": "Ramp",
-    "title": "Technical Consultant, Oracle Cloud",
-    "category": "Systems & Infrastructure/DevOps",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/ramp/13fe8467-b624-4f30-8aad-af441dfb1797",
-    "source": "Ashby",
-    "date_posted": "2026-08-01",
-    "is_active": true
-  },
-  {
-    "id": "abebefc3a423b45917dd5a77e341bb41",
-    "company": "Ramp",
-    "title": "Money Laundering Reporting Officer, AML",
-    "category": "AI/ML & GenAI",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/ramp/1b6a5a22-d6ed-4591-987d-6cc5b7bca8e1",
-    "source": "Ashby",
+    "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=7912529",
+    "source": "Greenhouse",
     "date_posted": "2026-08-01",
     "is_active": true
   },
@@ -683,66 +583,6 @@
     "is_active": true
   },
   {
-    "id": "2460624e536081c50be37a6523f6a743",
-    "company": "Anysphere (Cursor)",
-    "title": "Strategic Account Executive, Federal Systems Integrators",
-    "category": "Systems & Infrastructure/DevOps",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/cursor/89949cac-643b-4354-8bd3-744f6cde732b",
-    "source": "Ashby",
-    "date_posted": "2026-08-01",
-    "is_active": true
-  },
-  {
-    "id": "96fd3dfa636dcc242b98ef9671cee61a",
-    "company": "Supabase",
-    "title": "Developer Relations Engineer (San Francisco, CA)",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Global Remote",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/supabase/a1320bbf-bfae-49a8-a1b7-12eeccaf39ca",
-    "source": "Ashby",
-    "date_posted": "2026-08-01",
-    "is_active": true
-  },
-  {
-    "id": "bcc88d9d09f0b63bb8d48394376871cd",
-    "company": "Supabase",
-    "title": "Software Engineer - Auth",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Global Remote",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/supabase/e569b7f7-fa8f-4139-86f6-4f52b456882d",
-    "source": "Ashby",
-    "date_posted": "2026-08-01",
-    "is_active": true
-  },
-  {
     "id": "dea21209f4108a0c073298a083692e07",
     "company": "Supabase",
     "title": "Software Engineer: IaC Platform Experience",
@@ -763,46 +603,6 @@
     "is_active": true
   },
   {
-    "id": "9c121474109bda348a35015d2973baa9",
-    "company": "Supabase",
-    "title": "Product Manager - Infrastructure",
-    "category": "Systems & Infrastructure/DevOps",
-    "tier": "Global Remote",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/supabase/47bcfdb8-b954-423e-8a9e-85256434575c",
-    "source": "Ashby",
-    "date_posted": "2026-08-01",
-    "is_active": true
-  },
-  {
-    "id": "55ea11950bea7c0229736083b5c994f4",
-    "company": "Supabase",
-    "title": "Partner Operations & Systems Lead ",
-    "category": "Systems & Infrastructure/DevOps",
-    "tier": "Global Remote",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/supabase/577bdf6d-f34b-4b9e-8d6b-b96776675c94",
-    "source": "Ashby",
-    "date_posted": "2026-08-01",
-    "is_active": true
-  },
-  {
     "id": "46ad233f5cbca55b78171d7e6f612c8e",
     "company": "Supabase",
     "title": "AI Platform Engineer",
@@ -818,6 +618,26 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://jobs.ashbyhq.com/supabase/3b5d54ca-741b-45ac-bd3f-31605a0d3541",
+    "source": "Ashby",
+    "date_posted": "2026-08-01",
+    "is_active": true
+  },
+  {
+    "id": "978236103c8040c07e5f5ea4847e7ed8",
+    "company": "Ramp",
+    "title": "Technical Consultant, Oracle Cloud",
+    "category": "Systems & Infrastructure/DevOps",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://jobs.ashbyhq.com/ramp/13fe8467-b624-4f30-8aad-af441dfb1797",
     "source": "Ashby",
     "date_posted": "2026-08-01",
     "is_active": true
@@ -863,9 +683,29 @@
     "is_active": true
   },
   {
-    "id": "cb549c7726ab0372051dfc2c0c96f590",
-    "company": "Resend",
-    "title": "Security Engineer, Platform",
+    "id": "96fd3dfa636dcc242b98ef9671cee61a",
+    "company": "Supabase",
+    "title": "Developer Relations Engineer (San Francisco, CA)",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Global Remote",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://jobs.ashbyhq.com/supabase/a1320bbf-bfae-49a8-a1b7-12eeccaf39ca",
+    "source": "Ashby",
+    "date_posted": "2026-08-01",
+    "is_active": true
+  },
+  {
+    "id": "55ea11950bea7c0229736083b5c994f4",
+    "company": "Supabase",
+    "title": "Partner Operations & Systems Lead ",
     "category": "Systems & Infrastructure/DevOps",
     "tier": "Global Remote",
     "conversion_potential": "Direct FTE / New Grad",
@@ -877,7 +717,27 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/resend/8c290ac4-22b4-4072-86e0-b6f5a97213d6",
+    "apply_url": "https://jobs.ashbyhq.com/supabase/577bdf6d-f34b-4b9e-8d6b-b96776675c94",
+    "source": "Ashby",
+    "date_posted": "2026-08-01",
+    "is_active": true
+  },
+  {
+    "id": "45f8f831fbb42b2894ee671fb3793304",
+    "company": "Pinecone",
+    "title": "Senior/Staff Software Engineer, Experience",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://jobs.ashbyhq.com/pinecone/773e953d-8f53-4313-93b4-35a553bad1cb",
     "source": "Ashby",
     "date_posted": "2026-08-01",
     "is_active": true
@@ -903,26 +763,6 @@
     "is_active": true
   },
   {
-    "id": "2caf9a1af87aabd4f0a635e9b3b426ca",
-    "company": "Render",
-    "title": "Software Engineer, Security (all levels)",
-    "category": "Systems & Infrastructure/DevOps",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/render/226a1b3b-5937-4880-817b-4beb1f72ecc6",
-    "source": "Ashby",
-    "date_posted": "2026-08-01",
-    "is_active": true
-  },
-  {
     "id": "d6e12c5358e84c76eb833b85a05237d4",
     "company": "Render",
     "title": "Software Engineer, Infrastructure (all levels)",
@@ -943,11 +783,11 @@
     "is_active": true
   },
   {
-    "id": "ca0002012772afc2b9866a1d9a42ac32",
-    "company": "Render",
-    "title": "Software Engineer, Billing (all levels)",
+    "id": "bcc88d9d09f0b63bb8d48394376871cd",
+    "company": "Supabase",
+    "title": "Software Engineer - Auth",
     "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
+    "tier": "Global Remote",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
       "Remote (India)"
@@ -957,17 +797,17 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/render/57a61c00-fa74-402d-89cd-1a1b936e14d5",
+    "apply_url": "https://jobs.ashbyhq.com/supabase/e569b7f7-fa8f-4139-86f6-4f52b456882d",
     "source": "Ashby",
     "date_posted": "2026-08-01",
     "is_active": true
   },
   {
-    "id": "38a7f971a0d13f9e197cf7fd2344edd6",
-    "company": "Render",
-    "title": "Software Engineer, Growth (all levels)",
+    "id": "3ed1dae5e23ea17dc77d4d4c242bfe68",
+    "company": "Ramp",
+    "title": "Software Engineer, Argentina",
     "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
+    "tier": "High-Paying Startup / AI Lab",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
       "Remote (India)"
@@ -977,15 +817,55 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/render/62ea10c7-ad69-444f-9632-dd4b50b8c805",
+    "apply_url": "https://jobs.ashbyhq.com/ramp/9320454f-f2ca-4c19-82d2-b51b8d75fd3a",
     "source": "Ashby",
     "date_posted": "2026-08-01",
     "is_active": true
   },
   {
-    "id": "9ae2f02eeb70d8ff53dea229c512f04d",
+    "id": "abebefc3a423b45917dd5a77e341bb41",
+    "company": "Ramp",
+    "title": "Money Laundering Reporting Officer, AML",
+    "category": "AI/ML & GenAI",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://jobs.ashbyhq.com/ramp/1b6a5a22-d6ed-4591-987d-6cc5b7bca8e1",
+    "source": "Ashby",
+    "date_posted": "2026-08-01",
+    "is_active": true
+  },
+  {
+    "id": "cb549c7726ab0372051dfc2c0c96f590",
+    "company": "Resend",
+    "title": "Security Engineer, Platform",
+    "category": "Systems & Infrastructure/DevOps",
+    "tier": "Global Remote",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://jobs.ashbyhq.com/resend/8c290ac4-22b4-4072-86e0-b6f5a97213d6",
+    "source": "Ashby",
+    "date_posted": "2026-08-01",
+    "is_active": true
+  },
+  {
+    "id": "2caf9a1af87aabd4f0a635e9b3b426ca",
     "company": "Render",
-    "title": "Staff / Principal Product Manager, Platform & Infrastructure",
+    "title": "Software Engineer, Security (all levels)",
     "category": "Systems & Infrastructure/DevOps",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
@@ -997,47 +877,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/render/d5f62097-29f5-4078-ad24-3b604380c1c0",
-    "source": "Ashby",
-    "date_posted": "2026-08-01",
-    "is_active": true
-  },
-  {
-    "id": "ffe12619cfa3747dc8dbef74882e4cc4",
-    "company": "Render",
-    "title": "Engineering Manager, Platform ",
-    "category": "Systems & Infrastructure/DevOps",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/render/f26084f3-992a-4fd3-8065-40cd51a8688f",
-    "source": "Ashby",
-    "date_posted": "2026-08-01",
-    "is_active": true
-  },
-  {
-    "id": "c28e4a965b55e3aa29b6dcf9e6d4f0f1",
-    "company": "Render",
-    "title": "Software Engineer, Network Infrastructure",
-    "category": "Systems & Infrastructure/DevOps",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/render/88cb74a4-bc28-40b1-b792-d3041e3e17d3",
+    "apply_url": "https://jobs.ashbyhq.com/render/226a1b3b-5937-4880-817b-4beb1f72ecc6",
     "source": "Ashby",
     "date_posted": "2026-08-01",
     "is_active": true
@@ -1063,6 +903,66 @@
     "is_active": true
   },
   {
+    "id": "9c121474109bda348a35015d2973baa9",
+    "company": "Supabase",
+    "title": "Product Manager - Infrastructure",
+    "category": "Systems & Infrastructure/DevOps",
+    "tier": "Global Remote",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://jobs.ashbyhq.com/supabase/47bcfdb8-b954-423e-8a9e-85256434575c",
+    "source": "Ashby",
+    "date_posted": "2026-08-01",
+    "is_active": true
+  },
+  {
+    "id": "df723d6708dae99ff1a7a6f6a78e7b53",
+    "company": "Pinecone",
+    "title": "Senior/Staff Software Engineer, Search & Retrieval Infrastructure",
+    "category": "Systems & Infrastructure/DevOps",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://jobs.ashbyhq.com/pinecone/7ef089cb-a721-4ad8-a6d0-c390e64991d2",
+    "source": "Ashby",
+    "date_posted": "2026-08-01",
+    "is_active": true
+  },
+  {
+    "id": "ca0002012772afc2b9866a1d9a42ac32",
+    "company": "Render",
+    "title": "Software Engineer, Billing (all levels)",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://jobs.ashbyhq.com/render/57a61c00-fa74-402d-89cd-1a1b936e14d5",
+    "source": "Ashby",
+    "date_posted": "2026-08-01",
+    "is_active": true
+  },
+  {
     "id": "dfff8baf6447123267dc9ea90ac506cd",
     "company": "Render",
     "title": "Software Engineer, Dev Velocity (all levels)",
@@ -1083,9 +983,9 @@
     "is_active": true
   },
   {
-    "id": "4a25644d56c7f66f6ec194c438bd1d1c",
+    "id": "c28e4a965b55e3aa29b6dcf9e6d4f0f1",
     "company": "Render",
-    "title": "Software Engineer, Compute Infrastructure",
+    "title": "Software Engineer, Network Infrastructure",
     "category": "Systems & Infrastructure/DevOps",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
@@ -1097,35 +997,15 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/render/af5b6699-2e4a-47de-99f7-664baa738190",
+    "apply_url": "https://jobs.ashbyhq.com/render/88cb74a4-bc28-40b1-b792-d3041e3e17d3",
     "source": "Ashby",
     "date_posted": "2026-08-01",
     "is_active": true
   },
   {
-    "id": "2442d838a9903b6e4fc5326c6caf74e9",
+    "id": "38a7f971a0d13f9e197cf7fd2344edd6",
     "company": "Render",
-    "title": "Staff Product Manager - Agent & Systems Observability ",
-    "category": "Systems & Infrastructure/DevOps",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/render/3ec7433c-efbc-42f2-8f28-b8eca42f384c",
-    "source": "Ashby",
-    "date_posted": "2026-08-01",
-    "is_active": true
-  },
-  {
-    "id": "f0cde9019a1292cb6f8eb8fe5d21ce9c",
-    "company": "Render",
-    "title": "Software Engineer, Agent Auth Experience",
+    "title": "Software Engineer, Growth (all levels)",
     "category": "Software Engineering (Backend/Fullstack)",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
@@ -1137,47 +1017,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/render/8815f772-6895-4383-a9e5-6c7bdc2bf141",
-    "source": "Ashby",
-    "date_posted": "2026-08-01",
-    "is_active": true
-  },
-  {
-    "id": "d51bfb98b8748e26d0655913f13514b0",
-    "company": "Tavus AI",
-    "title": "Data Engineer /ML Ops",
-    "category": "AI/ML & GenAI",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/tavus/a29d6e98-3a83-461c-b651-fc0dc387c4c7",
-    "source": "Ashby",
-    "date_posted": "2026-08-01",
-    "is_active": true
-  },
-  {
-    "id": "322fb47e36d3c11c3ccc0f3519875464",
-    "company": "Tavus AI",
-    "title": "Software Engineer, Infrastructure",
-    "category": "Systems & Infrastructure/DevOps",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/tavus/2cdc9932-1140-42d6-9fce-ee7e26192b15",
+    "apply_url": "https://jobs.ashbyhq.com/render/62ea10c7-ad69-444f-9632-dd4b50b8c805",
     "source": "Ashby",
     "date_posted": "2026-08-01",
     "is_active": true
@@ -1203,6 +1043,46 @@
     "is_active": true
   },
   {
+    "id": "ffe12619cfa3747dc8dbef74882e4cc4",
+    "company": "Render",
+    "title": "Engineering Manager, Platform ",
+    "category": "Systems & Infrastructure/DevOps",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://jobs.ashbyhq.com/render/f26084f3-992a-4fd3-8065-40cd51a8688f",
+    "source": "Ashby",
+    "date_posted": "2026-08-01",
+    "is_active": true
+  },
+  {
+    "id": "d51bfb98b8748e26d0655913f13514b0",
+    "company": "Tavus AI",
+    "title": "Data Engineer /ML Ops",
+    "category": "AI/ML & GenAI",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://jobs.ashbyhq.com/tavus/a29d6e98-3a83-461c-b651-fc0dc387c4c7",
+    "source": "Ashby",
+    "date_posted": "2026-08-01",
+    "is_active": true
+  },
+  {
     "id": "a0c4d425395ddeef68311c5e4949ad2c",
     "company": "ElevenLabs",
     "title": "Forward Deployed Engineer - Software Engineer - India",
@@ -1218,6 +1098,86 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://jobs.ashbyhq.com/elevenlabs/c25e27d5-71ff-4763-ae7b-137d0c252efa",
+    "source": "Ashby",
+    "date_posted": "2026-08-01",
+    "is_active": true
+  },
+  {
+    "id": "4a25644d56c7f66f6ec194c438bd1d1c",
+    "company": "Render",
+    "title": "Software Engineer, Compute Infrastructure",
+    "category": "Systems & Infrastructure/DevOps",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://jobs.ashbyhq.com/render/af5b6699-2e4a-47de-99f7-664baa738190",
+    "source": "Ashby",
+    "date_posted": "2026-08-01",
+    "is_active": true
+  },
+  {
+    "id": "322fb47e36d3c11c3ccc0f3519875464",
+    "company": "Tavus AI",
+    "title": "Software Engineer, Infrastructure",
+    "category": "Systems & Infrastructure/DevOps",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://jobs.ashbyhq.com/tavus/2cdc9932-1140-42d6-9fce-ee7e26192b15",
+    "source": "Ashby",
+    "date_posted": "2026-08-01",
+    "is_active": true
+  },
+  {
+    "id": "f0cde9019a1292cb6f8eb8fe5d21ce9c",
+    "company": "Render",
+    "title": "Software Engineer, Agent Auth Experience",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://jobs.ashbyhq.com/render/8815f772-6895-4383-a9e5-6c7bdc2bf141",
+    "source": "Ashby",
+    "date_posted": "2026-08-01",
+    "is_active": true
+  },
+  {
+    "id": "9ae2f02eeb70d8ff53dea229c512f04d",
+    "company": "Render",
+    "title": "Staff / Principal Product Manager, Platform & Infrastructure",
+    "category": "Systems & Infrastructure/DevOps",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://jobs.ashbyhq.com/render/d5f62097-29f5-4078-ad24-3b604380c1c0",
     "source": "Ashby",
     "date_posted": "2026-08-01",
     "is_active": true
@@ -1243,26 +1203,6 @@
     "is_active": true
   },
   {
-    "id": "a5bb55504f7f3b4c2353e17aac1cad33",
-    "company": "Deepgram",
-    "title": "Research Staff, Data Science",
-    "category": "AI/ML & GenAI",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/deepgram/fdb4073a-4c1c-48d6-b6d5-f407d3e78d17",
-    "source": "Ashby",
-    "date_posted": "2026-08-01",
-    "is_active": true
-  },
-  {
     "id": "b2b3329899e760e2332162921ca57b4c",
     "company": "Deepgram",
     "title": "Research Staff, LLMs",
@@ -1283,10 +1223,10 @@
     "is_active": true
   },
   {
-    "id": "cb513389e6c4e503b5692c6ac5eaaeb3",
-    "company": "Deepgram",
-    "title": "Research Engineer, Machine Learning Systems",
-    "category": "AI/ML & GenAI",
+    "id": "2460624e536081c50be37a6523f6a743",
+    "company": "Anysphere (Cursor)",
+    "title": "Strategic Account Executive, Federal Systems Integrators",
+    "category": "Systems & Infrastructure/DevOps",
     "tier": "High-Paying Startup / AI Lab",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
@@ -1297,87 +1237,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/deepgram/9a030b32-d671-43e0-a221-4653bb73ba29",
-    "source": "Ashby",
-    "date_posted": "2026-08-01",
-    "is_active": true
-  },
-  {
-    "id": "6d81a74cda8f140efe1d0d679c0fa53f",
-    "company": "Deepgram",
-    "title": "Platform Engineer - AI/ML Infrastructure (Kubernetes & Terraform)",
-    "category": "AI/ML & GenAI",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/deepgram/f424ef6a-c27f-4984-9e77-40a1ad16ae28",
-    "source": "Ashby",
-    "date_posted": "2026-08-01",
-    "is_active": true
-  },
-  {
-    "id": "120efeb8d5e2027016f075bc1b47aba0",
-    "company": "Deepgram",
-    "title": "Backend Software Engineer - Engine Team (Voice Agent)",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/deepgram/7c7064bb-2bf0-4f64-81cc-14afe79a15c1",
-    "source": "Ashby",
-    "date_posted": "2026-08-01",
-    "is_active": true
-  },
-  {
-    "id": "49b21bf73dbdfcbc1d946bbfd17d7f9f",
-    "company": "Deepgram",
-    "title": "Backend Engineer- Inference Services",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/deepgram/2084edc0-2df0-4bd4-b759-0f05c38d5ef5",
-    "source": "Ashby",
-    "date_posted": "2026-08-01",
-    "is_active": true
-  },
-  {
-    "id": "35ea9ea4143f7d13b089ee22a37e5d9c",
-    "company": "Deepgram",
-    "title": "ML Ops Infrastructure Engineer",
-    "category": "AI/ML & GenAI",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/deepgram/7ced4c1f-4126-44fe-9cf1-da427a9e4e3e",
+    "apply_url": "https://jobs.ashbyhq.com/cursor/89949cac-643b-4354-8bd3-744f6cde732b",
     "source": "Ashby",
     "date_posted": "2026-08-01",
     "is_active": true
@@ -1403,11 +1263,11 @@
     "is_active": true
   },
   {
-    "id": "c80a694f25347139ae12da60423ab07c",
-    "company": "Deepgram",
-    "title": "Billing & Analytics Software Engineer",
-    "category": "Data & Analytics",
-    "tier": "High-Paying Startup / AI Lab",
+    "id": "2442d838a9903b6e4fc5326c6caf74e9",
+    "company": "Render",
+    "title": "Staff Product Manager - Agent & Systems Observability ",
+    "category": "Systems & Infrastructure/DevOps",
+    "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
       "Remote (India)"
@@ -1417,15 +1277,15 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/deepgram/378e83b4-28c0-4b4e-8cf0-9355712bd06d",
+    "apply_url": "https://jobs.ashbyhq.com/render/3ec7433c-efbc-42f2-8f28-b8eca42f384c",
     "source": "Ashby",
     "date_posted": "2026-08-01",
     "is_active": true
   },
   {
-    "id": "84530650c83ef04d99c07d9759af8ade",
+    "id": "49b21bf73dbdfcbc1d946bbfd17d7f9f",
     "company": "Deepgram",
-    "title": "Sr. Backend Engineer - Engine Team: API",
+    "title": "Backend Engineer- Inference Services",
     "category": "Software Engineering (Backend/Fullstack)",
     "tier": "High-Paying Startup / AI Lab",
     "conversion_potential": "Direct FTE / New Grad",
@@ -1437,15 +1297,15 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/deepgram/d98e6723-3485-4b58-9494-d6bf028fa905",
+    "apply_url": "https://jobs.ashbyhq.com/deepgram/2084edc0-2df0-4bd4-b759-0f05c38d5ef5",
     "source": "Ashby",
     "date_posted": "2026-08-01",
     "is_active": true
   },
   {
-    "id": "cd6a3d7e01885a2e1990d1c948142587",
+    "id": "6d81a74cda8f140efe1d0d679c0fa53f",
     "company": "Deepgram",
-    "title": "Head of AI Enablement Engineering",
+    "title": "Platform Engineer - AI/ML Infrastructure (Kubernetes & Terraform)",
     "category": "AI/ML & GenAI",
     "tier": "High-Paying Startup / AI Lab",
     "conversion_potential": "Direct FTE / New Grad",
@@ -1457,7 +1317,47 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/deepgram/c91de352-9f25-479e-8877-fbea9576a52c",
+    "apply_url": "https://jobs.ashbyhq.com/deepgram/f424ef6a-c27f-4984-9e77-40a1ad16ae28",
+    "source": "Ashby",
+    "date_posted": "2026-08-01",
+    "is_active": true
+  },
+  {
+    "id": "35ea9ea4143f7d13b089ee22a37e5d9c",
+    "company": "Deepgram",
+    "title": "ML Ops Infrastructure Engineer",
+    "category": "AI/ML & GenAI",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://jobs.ashbyhq.com/deepgram/7ced4c1f-4126-44fe-9cf1-da427a9e4e3e",
+    "source": "Ashby",
+    "date_posted": "2026-08-01",
+    "is_active": true
+  },
+  {
+    "id": "6e825489f5b484bbd5cc7a6b5b9de737",
+    "company": "Deepgram",
+    "title": "Staff Developer Experience (DX) Engineer",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://jobs.ashbyhq.com/deepgram/c0a4b3fb-2c15-4b03-86f9-688eec8a8187",
     "source": "Ashby",
     "date_posted": "2026-08-01",
     "is_active": true
@@ -1483,46 +1383,6 @@
     "is_active": true
   },
   {
-    "id": "d2364937c1a3691ee0eb6484f49f8db2",
-    "company": "Deepgram",
-    "title": "Applied ML Engineer",
-    "category": "AI/ML & GenAI",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/deepgram/94ae2781-a85f-493a-86c1-ff85a9289355",
-    "source": "Ashby",
-    "date_posted": "2026-08-01",
-    "is_active": true
-  },
-  {
-    "id": "fbece0b19acec9b9c5391be4ff0f14d1",
-    "company": "Deepgram",
-    "title": "Embedded AI Engineer, On-Device Models",
-    "category": "AI/ML & GenAI",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/deepgram/0b7494b3-a91e-4540-9439-5b10a1e5b391",
-    "source": "Ashby",
-    "date_posted": "2026-08-01",
-    "is_active": true
-  },
-  {
     "id": "b48f67d0b52f9804a9d63c30ecc8f9e1",
     "company": "Deepgram",
     "title": "Senior Software Engineer - Saga / Voice OS",
@@ -1543,29 +1403,9 @@
     "is_active": true
   },
   {
-    "id": "5917bd0ad4259b27c43bb10954c23348",
+    "id": "120efeb8d5e2027016f075bc1b47aba0",
     "company": "Deepgram",
-    "title": "Partner Success Engineer (Infrastructure)",
-    "category": "Systems & Infrastructure/DevOps",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/deepgram/d75d6f84-1d54-4354-a364-609b48267658",
-    "source": "Ashby",
-    "date_posted": "2026-08-01",
-    "is_active": true
-  },
-  {
-    "id": "6e825489f5b484bbd5cc7a6b5b9de737",
-    "company": "Deepgram",
-    "title": "Staff Developer Experience (DX) Engineer",
+    "title": "Backend Software Engineer - Engine Team (Voice Agent)",
     "category": "Software Engineering (Backend/Fullstack)",
     "tier": "High-Paying Startup / AI Lab",
     "conversion_potential": "Direct FTE / New Grad",
@@ -1577,7 +1417,27 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/deepgram/c0a4b3fb-2c15-4b03-86f9-688eec8a8187",
+    "apply_url": "https://jobs.ashbyhq.com/deepgram/7c7064bb-2bf0-4f64-81cc-14afe79a15c1",
+    "source": "Ashby",
+    "date_posted": "2026-08-01",
+    "is_active": true
+  },
+  {
+    "id": "cd6a3d7e01885a2e1990d1c948142587",
+    "company": "Deepgram",
+    "title": "Head of AI Enablement Engineering",
+    "category": "AI/ML & GenAI",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://jobs.ashbyhq.com/deepgram/c91de352-9f25-479e-8877-fbea9576a52c",
     "source": "Ashby",
     "date_posted": "2026-08-01",
     "is_active": true
@@ -1623,6 +1483,106 @@
     "is_active": true
   },
   {
+    "id": "5917bd0ad4259b27c43bb10954c23348",
+    "company": "Deepgram",
+    "title": "Partner Success Engineer (Infrastructure)",
+    "category": "Systems & Infrastructure/DevOps",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://jobs.ashbyhq.com/deepgram/d75d6f84-1d54-4354-a364-609b48267658",
+    "source": "Ashby",
+    "date_posted": "2026-08-01",
+    "is_active": true
+  },
+  {
+    "id": "fbece0b19acec9b9c5391be4ff0f14d1",
+    "company": "Deepgram",
+    "title": "Embedded AI Engineer, On-Device Models",
+    "category": "AI/ML & GenAI",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://jobs.ashbyhq.com/deepgram/0b7494b3-a91e-4540-9439-5b10a1e5b391",
+    "source": "Ashby",
+    "date_posted": "2026-08-01",
+    "is_active": true
+  },
+  {
+    "id": "84530650c83ef04d99c07d9759af8ade",
+    "company": "Deepgram",
+    "title": "Sr. Backend Engineer - Engine Team: API",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://jobs.ashbyhq.com/deepgram/d98e6723-3485-4b58-9494-d6bf028fa905",
+    "source": "Ashby",
+    "date_posted": "2026-08-01",
+    "is_active": true
+  },
+  {
+    "id": "d2364937c1a3691ee0eb6484f49f8db2",
+    "company": "Deepgram",
+    "title": "Applied ML Engineer",
+    "category": "AI/ML & GenAI",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://jobs.ashbyhq.com/deepgram/94ae2781-a85f-493a-86c1-ff85a9289355",
+    "source": "Ashby",
+    "date_posted": "2026-08-01",
+    "is_active": true
+  },
+  {
+    "id": "c80a694f25347139ae12da60423ab07c",
+    "company": "Deepgram",
+    "title": "Billing & Analytics Software Engineer",
+    "category": "Data & Analytics",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://jobs.ashbyhq.com/deepgram/378e83b4-28c0-4b4e-8cf0-9355712bd06d",
+    "source": "Ashby",
+    "date_posted": "2026-08-01",
+    "is_active": true
+  },
+  {
     "id": "e5826bfcaf70d11b4bcd6b7ed239c584",
     "company": "<a href=\"https://www.motorolasolutions.com\"><strong>Motorola Solutions</strong></a>",
     "title": "Software Engineering - Co-Op",
@@ -1643,11 +1603,11 @@
     "is_active": true
   },
   {
-    "id": "ee45d3ab80e99f0197e6a43f7a993c17",
-    "company": "Twilio",
-    "title": "Software Engineer",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
+    "id": "cb513389e6c4e503b5692c6ac5eaaeb3",
+    "company": "Deepgram",
+    "title": "Research Engineer, Machine Learning Systems",
+    "category": "AI/ML & GenAI",
+    "tier": "High-Paying Startup / AI Lab",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
       "Remote (India)"
@@ -1657,9 +1617,29 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7647708",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-31",
+    "apply_url": "https://jobs.ashbyhq.com/deepgram/9a030b32-d671-43e0-a221-4653bb73ba29",
+    "source": "Ashby",
+    "date_posted": "2026-08-01",
+    "is_active": true
+  },
+  {
+    "id": "a5bb55504f7f3b4c2353e17aac1cad33",
+    "company": "Deepgram",
+    "title": "Research Staff, Data Science",
+    "category": "AI/ML & GenAI",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://jobs.ashbyhq.com/deepgram/fdb4073a-4c1c-48d6-b6d5-f407d3e78d17",
+    "source": "Ashby",
+    "date_posted": "2026-08-01",
     "is_active": true
   },
   {
@@ -1683,6 +1663,26 @@
     "is_active": true
   },
   {
+    "id": "ee45d3ab80e99f0197e6a43f7a993c17",
+    "company": "Twilio",
+    "title": "Software Engineer",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7647708",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
     "id": "063b0e75b798c8c65f968ef5e9fb051a",
     "company": "Twilio",
     "title": "Software Engineer (L2)",
@@ -1698,26 +1698,6 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8100236",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
-    "id": "ae509325d0372f6f469f1ba3c4d1314f",
-    "company": "Twilio",
-    "title": "Frontend Software Engineer ",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7946608",
     "source": "Greenhouse",
     "date_posted": "2026-07-31",
     "is_active": true
@@ -1783,6 +1763,26 @@
     "is_active": true
   },
   {
+    "id": "ae509325d0372f6f469f1ba3c4d1314f",
+    "company": "Twilio",
+    "title": "Frontend Software Engineer ",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7946608",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
     "id": "d0afa14c769c9cc7663b1241a734c2db",
     "company": "Twilio",
     "title": "Machine Learning Engineer",
@@ -1798,46 +1798,6 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7996774",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
-    "id": "162563e21b4bc92ccd7a521180fb73ab",
-    "company": "Twilio",
-    "title": "Senior/Staff Applied Research Software Engineer",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8007449",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
-    "id": "2bed9ab75278f102aa2810c0b1be8987",
-    "company": "Twilio",
-    "title": "Software Engineer ",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7785202",
     "source": "Greenhouse",
     "date_posted": "2026-07-31",
     "is_active": true
@@ -1863,29 +1823,9 @@
     "is_active": true
   },
   {
-    "id": "2ae778a14067cc8aabcc41cc92a0f8a3",
+    "id": "2bed9ab75278f102aa2810c0b1be8987",
     "company": "Twilio",
-    "title": "Staff Enterprise Security Engineer, AI Security",
-    "category": "AI/ML & GenAI",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7962686",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
-    "id": "c0f944a0633bc81e3e9577a1a45808bc",
-    "company": "Twilio",
-    "title": "Staff Software Engineer",
+    "title": "Software Engineer ",
     "category": "Software Engineering (Backend/Fullstack)",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
@@ -1897,48 +1837,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8071710",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
-    "id": "156596de925499873e5167c268365f85",
-    "company": "Pure Storage",
-    "title": "Senior CDP Consultant (Data Engineering)",
-    "category": "Data & Analytics",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/8009217",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
-    "id": "953a844ded299b22fffe8e2520e8f8dd",
-    "company": "Twilio",
-    "title": "Software Engineer, Identity",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7605743",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7785202",
     "source": "Greenhouse",
     "date_posted": "2026-07-31",
     "is_active": true
@@ -1964,9 +1863,9 @@
     "is_active": true
   },
   {
-    "id": "2bebb597e7a358ad9c0d07a25e4bdbde",
+    "id": "29d6802cec5679aca7eb00e7d7329c30",
     "company": "Twilio",
-    "title": "Senior Software Engineer",
+    "title": "Staff Software Engineer (L4)",
     "category": "Software Engineering (Backend/Fullstack)",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
@@ -1978,16 +1877,16 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8015771",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7716279",
     "source": "Greenhouse",
     "date_posted": "2026-07-31",
     "is_active": true
   },
   {
-    "id": "2364e9cf128878d77363b2ce338f05d6",
+    "id": "c0f944a0633bc81e3e9577a1a45808bc",
     "company": "Twilio",
-    "title": "Staff Enterprise Security Engineer, AI Security",
-    "category": "AI/ML & GenAI",
+    "title": "Staff Software Engineer",
+    "category": "Software Engineering (Backend/Fullstack)",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
@@ -1998,7 +1897,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7904291",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8071710",
     "source": "Greenhouse",
     "date_posted": "2026-07-31",
     "is_active": true
@@ -2024,9 +1923,9 @@
     "is_active": true
   },
   {
-    "id": "29d6802cec5679aca7eb00e7d7329c30",
+    "id": "783c7f48c4d4e59c7160f5962466a9bf",
     "company": "Twilio",
-    "title": "Staff Software Engineer (L4)",
+    "title": "Software Engineer (L2)",
     "category": "Software Engineering (Backend/Fullstack)",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
@@ -2038,16 +1937,16 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7716279",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8097672",
     "source": "Greenhouse",
     "date_posted": "2026-07-31",
     "is_active": true
   },
   {
-    "id": "43ef8ffb9a379437ffa51ba0cea2a100",
+    "id": "953a844ded299b22fffe8e2520e8f8dd",
     "company": "Twilio",
-    "title": "Senior Cloud Software Engineer",
-    "category": "Systems & Infrastructure/DevOps",
+    "title": "Software Engineer, Identity",
+    "category": "Software Engineering (Backend/Fullstack)",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
@@ -2058,7 +1957,68 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7807419",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7605743",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
+    "id": "2364e9cf128878d77363b2ce338f05d6",
+    "company": "Twilio",
+    "title": "Staff Enterprise Security Engineer, AI Security",
+    "category": "AI/ML & GenAI",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7904291",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
+    "id": "162563e21b4bc92ccd7a521180fb73ab",
+    "company": "Twilio",
+    "title": "Senior/Staff Applied Research Software Engineer",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8007449",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
+    "id": "156596de925499873e5167c268365f85",
+    "company": "Pure Storage",
+    "title": "Senior CDP Consultant (Data Engineering)",
+    "category": "Data & Analytics",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/8009217",
     "source": "Greenhouse",
     "date_posted": "2026-07-31",
     "is_active": true
@@ -2104,9 +2064,9 @@
     "is_active": true
   },
   {
-    "id": "783c7f48c4d4e59c7160f5962466a9bf",
+    "id": "2bebb597e7a358ad9c0d07a25e4bdbde",
     "company": "Twilio",
-    "title": "Software Engineer (L2)",
+    "title": "Senior Software Engineer",
     "category": "Software Engineering (Backend/Fullstack)",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
@@ -2118,7 +2078,48 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8097672",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8015771",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
+    "id": "43ef8ffb9a379437ffa51ba0cea2a100",
+    "company": "Twilio",
+    "title": "Senior Cloud Software Engineer",
+    "category": "Systems & Infrastructure/DevOps",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7807419",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
+    "id": "2395d6b717e96fe8c54788f66db860e6",
+    "company": "New Relic",
+    "title": "Senior Full Stack Software Engineer",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://job-boards.greenhouse.io/newrelic/jobs/5189065008",
     "source": "Greenhouse",
     "date_posted": "2026-07-31",
     "is_active": true
@@ -2159,6 +2160,26 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8039186",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
+    "id": "2ae778a14067cc8aabcc41cc92a0f8a3",
+    "company": "Twilio",
+    "title": "Staff Enterprise Security Engineer, AI Security",
+    "category": "AI/ML & GenAI",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7962686",
     "source": "Greenhouse",
     "date_posted": "2026-07-31",
     "is_active": true
@@ -2206,6 +2227,27 @@
     "is_active": true
   },
   {
+    "id": "3747412f668d5ff06a9fa78bd70f0e51",
+    "company": "Okta",
+    "title": "Principal Software Engineer, Architect - Java Backend",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://www.okta.com/company/careers/opportunity/7600755?gh_jid=7600755",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
     "id": "3f3e1eea057cae245d649122fbda3a4b",
     "company": "Okta",
     "title": "Principal Software Engineer",
@@ -2222,69 +2264,6 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://www.okta.com/company/careers/opportunity/7781674?gh_jid=7781674",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
-    "id": "5a6bd63cb6935913a4a00707d96ab596",
-    "company": "Okta",
-    "title": "Principal Software Engineer - Backend",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.okta.com/company/careers/opportunity/8007071?gh_jid=8007071",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
-    "id": "698005be75bd90453039a1b4f09d1d38",
-    "company": "Okta",
-    "title": "Senior Software Engineer (Core Frontier)",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.okta.com/company/careers/opportunity/7894398?gh_jid=7894398",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
-    "id": "f539ae8a9f666c0d447f4e8ad1b9fe8f",
-    "company": "Okta",
-    "title": "Business Application Developer - ServiceNow",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.okta.com/company/careers/opportunity/7727730?gh_jid=7727730",
     "source": "Greenhouse",
     "date_posted": "2026-07-31",
     "is_active": true
@@ -2311,9 +2290,9 @@
     "is_active": true
   },
   {
-    "id": "3747412f668d5ff06a9fa78bd70f0e51",
+    "id": "379cec2e4ab94d705559b0e799327b96",
     "company": "Okta",
-    "title": "Principal Software Engineer, Architect - Java Backend",
+    "title": "Principal Software Engineer - Windows",
     "category": "Software Engineering (Backend/Fullstack)",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
@@ -2326,133 +2305,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.okta.com/company/careers/opportunity/7600755?gh_jid=7600755",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
-    "id": "f11478257658c37e3f1712ee650a4101",
-    "company": "Okta",
-    "title": "Fullstack Staff Software Engineer - PAM",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.okta.com/company/careers/opportunity/8077108?gh_jid=8077108",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
-    "id": "513d2a32ebb7aa02c4d6db5af0707601",
-    "company": "Okta",
-    "title": "Senior Product Manager, Data Platform",
-    "category": "Systems & Infrastructure/DevOps",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.okta.com/company/careers/opportunity/8022961?gh_jid=8022961",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
-    "id": "2395d6b717e96fe8c54788f66db860e6",
-    "company": "New Relic",
-    "title": "Senior Full Stack Software Engineer",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/newrelic/jobs/5189065008",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
-    "id": "0fd4421a1ec31fd489fc4320301a4586",
-    "company": "Okta",
-    "title": "Senior Software Engineer Fullstack",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.okta.com/company/careers/opportunity/8018803?gh_jid=8018803",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
-    "id": "47c27cd2b93f37b1cd4d440ec7237216",
-    "company": "Okta",
-    "title": "Fullstack Staff Software Engineer - PAM",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.okta.com/company/careers/opportunity/8064490?gh_jid=8064490",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
-    "id": "92e137e57537df8468d45f6f1dd29717",
-    "company": "Okta",
-    "title": "Senior Software Engineer",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.okta.com/company/careers/opportunity/8021050?gh_jid=8021050",
+    "apply_url": "https://www.okta.com/company/careers/opportunity/8007080?gh_jid=8007080",
     "source": "Greenhouse",
     "date_posted": "2026-07-31",
     "is_active": true
@@ -2479,9 +2332,9 @@
     "is_active": true
   },
   {
-    "id": "379cec2e4ab94d705559b0e799327b96",
+    "id": "f539ae8a9f666c0d447f4e8ad1b9fe8f",
     "company": "Okta",
-    "title": "Principal Software Engineer - Windows",
+    "title": "Business Application Developer - ServiceNow",
     "category": "Software Engineering (Backend/Fullstack)",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
@@ -2494,15 +2347,15 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.okta.com/company/careers/opportunity/8007080?gh_jid=8007080",
+    "apply_url": "https://www.okta.com/company/careers/opportunity/7727730?gh_jid=7727730",
     "source": "Greenhouse",
     "date_posted": "2026-07-31",
     "is_active": true
   },
   {
-    "id": "5d00fdc8f334dfe312d6f404a1c41138",
+    "id": "698005be75bd90453039a1b4f09d1d38",
     "company": "Okta",
-    "title": "Principal Software Engineer",
+    "title": "Senior Software Engineer (Core Frontier)",
     "category": "Software Engineering (Backend/Fullstack)",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
@@ -2515,91 +2368,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.okta.com/company/careers/opportunity/7849955?gh_jid=7849955",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
-    "id": "2e0c8397a676094cdd4961adee589d91",
-    "company": "Okta",
-    "title": "Senior Engineer, FGA Developer Tooling",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.okta.com/company/careers/opportunity/7780942?gh_jid=7780942",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
-    "id": "67c78051f276c17f18486794a5cb3444",
-    "company": "Okta",
-    "title": "Senior Analyst, Field Analytics",
-    "category": "Data & Analytics",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.okta.com/company/careers/opportunity/7728553?gh_jid=7728553",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
-    "id": "7cdf274a7c4c01e7f434544f86dac9e5",
-    "company": "Okta",
-    "title": "Principal Data Platform Engineer (Bengaluru)",
-    "category": "Systems & Infrastructure/DevOps",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.okta.com/company/careers/opportunity/7648974?gh_jid=7648974",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
-    "id": "58a6954c25cb922dfe1508b3d319a5ad",
-    "company": "Okta",
-    "title": "Audit Analytics & Transformation Analyst",
-    "category": "Data & Analytics",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.okta.com/company/careers/opportunity/8054876?gh_jid=8054876",
+    "apply_url": "https://www.okta.com/company/careers/opportunity/7894398?gh_jid=7894398",
     "source": "Greenhouse",
     "date_posted": "2026-07-31",
     "is_active": true
@@ -2626,6 +2395,174 @@
     "is_active": true
   },
   {
+    "id": "513d2a32ebb7aa02c4d6db5af0707601",
+    "company": "Okta",
+    "title": "Senior Product Manager, Data Platform",
+    "category": "Systems & Infrastructure/DevOps",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://www.okta.com/company/careers/opportunity/8022961?gh_jid=8022961",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
+    "id": "5d00fdc8f334dfe312d6f404a1c41138",
+    "company": "Okta",
+    "title": "Principal Software Engineer",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://www.okta.com/company/careers/opportunity/7849955?gh_jid=7849955",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
+    "id": "5a6bd63cb6935913a4a00707d96ab596",
+    "company": "Okta",
+    "title": "Principal Software Engineer - Backend",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://www.okta.com/company/careers/opportunity/8007071?gh_jid=8007071",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
+    "id": "f11478257658c37e3f1712ee650a4101",
+    "company": "Okta",
+    "title": "Fullstack Staff Software Engineer - PAM",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://www.okta.com/company/careers/opportunity/8077108?gh_jid=8077108",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
+    "id": "0fd4421a1ec31fd489fc4320301a4586",
+    "company": "Okta",
+    "title": "Senior Software Engineer Fullstack",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://www.okta.com/company/careers/opportunity/8018803?gh_jid=8018803",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
+    "id": "7cdf274a7c4c01e7f434544f86dac9e5",
+    "company": "Okta",
+    "title": "Principal Data Platform Engineer (Bengaluru)",
+    "category": "Systems & Infrastructure/DevOps",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://www.okta.com/company/careers/opportunity/7648974?gh_jid=7648974",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
+    "id": "92e137e57537df8468d45f6f1dd29717",
+    "company": "Okta",
+    "title": "Senior Software Engineer",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://www.okta.com/company/careers/opportunity/8021050?gh_jid=8021050",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
+    "id": "2e0c8397a676094cdd4961adee589d91",
+    "company": "Okta",
+    "title": "Senior Engineer, FGA Developer Tooling",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://www.okta.com/company/careers/opportunity/7780942?gh_jid=7780942",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
     "id": "1bca301d2efe0f0a8f068c15872ddb97",
     "company": "Okta",
     "title": "Senior Software Engineer",
@@ -2647,10 +2584,10 @@
     "is_active": true
   },
   {
-    "id": "ff07061fc87c3e1363d2e35342a2d46e",
+    "id": "58a6954c25cb922dfe1508b3d319a5ad",
     "company": "Okta",
-    "title": "Engineering Manager - Platform Migration Services (Auth0)",
-    "category": "Systems & Infrastructure/DevOps",
+    "title": "Audit Analytics & Transformation Analyst",
+    "category": "Data & Analytics",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
@@ -2662,28 +2599,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.okta.com/company/careers/opportunity/7606225?gh_jid=7606225",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
-    "id": "d99b0f39a4a3594400a18e500a6b2db9",
-    "company": "Okta",
-    "title": "Senior Software Engineer",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.okta.com/company/careers/opportunity/8053679?gh_jid=8053679",
+    "apply_url": "https://www.okta.com/company/careers/opportunity/8054876?gh_jid=8054876",
     "source": "Greenhouse",
     "date_posted": "2026-07-31",
     "is_active": true
@@ -2710,9 +2626,9 @@
     "is_active": true
   },
   {
-    "id": "7fd63e69f199fcc2a8022151e94dced4",
+    "id": "d99b0f39a4a3594400a18e500a6b2db9",
     "company": "Okta",
-    "title": "Senior Software Engineer in Test",
+    "title": "Senior Software Engineer",
     "category": "Software Engineering (Backend/Fullstack)",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
@@ -2725,8 +2641,110 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.okta.com/company/careers/opportunity/7840415?gh_jid=7840415",
+    "apply_url": "https://www.okta.com/company/careers/opportunity/8053679?gh_jid=8053679",
     "source": "Greenhouse",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
+    "id": "ff07061fc87c3e1363d2e35342a2d46e",
+    "company": "Okta",
+    "title": "Engineering Manager - Platform Migration Services (Auth0)",
+    "category": "Systems & Infrastructure/DevOps",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://www.okta.com/company/careers/opportunity/7606225?gh_jid=7606225",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
+    "id": "47c27cd2b93f37b1cd4d440ec7237216",
+    "company": "Okta",
+    "title": "Fullstack Staff Software Engineer - PAM",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://www.okta.com/company/careers/opportunity/8064490?gh_jid=8064490",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
+    "id": "2a4d8420a1c2550a5227708df4205746",
+    "company": "Bosch Group",
+    "title": "IN_RBAI_Production Planner_IN",
+    "category": "AI/ML & GenAI",
+    "tier": "Global Capability Center (GCC)",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000140826064",
+    "source": "SmartRecruiters",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
+    "id": "34d43d091a35bc8c3b1084a72649162b",
+    "company": "Bosch Group",
+    "title": "AI Technology Architect",
+    "category": "AI/ML & GenAI",
+    "tier": "Global Capability Center (GCC)",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000140810637",
+    "source": "SmartRecruiters",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
+    "id": "d3f40044cac06268ec488d8b33f23717",
+    "company": "Bosch Group",
+    "title": "Data Analytics ",
+    "category": "Data & Analytics",
+    "tier": "Global Capability Center (GCC)",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000140823259",
+    "source": "SmartRecruiters",
     "date_posted": "2026-07-31",
     "is_active": true
   },
@@ -2752,62 +2770,23 @@
     "is_active": true
   },
   {
-    "id": "34d43d091a35bc8c3b1084a72649162b",
-    "company": "Bosch Group",
-    "title": "AI Technology Architect",
-    "category": "AI/ML & GenAI",
-    "tier": "Global Capability Center (GCC)",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000140810637",
-    "source": "SmartRecruiters",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
-    "id": "2a4d8420a1c2550a5227708df4205746",
-    "company": "Bosch Group",
-    "title": "IN_RBAI_Production Planner_IN",
-    "category": "AI/ML & GenAI",
-    "tier": "Global Capability Center (GCC)",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000140826064",
-    "source": "SmartRecruiters",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
-    "id": "d3f40044cac06268ec488d8b33f23717",
-    "company": "Bosch Group",
-    "title": "Data Analytics ",
+    "id": "67c78051f276c17f18486794a5cb3444",
+    "company": "Okta",
+    "title": "Senior Analyst, Field Analytics",
     "category": "Data & Analytics",
-    "tier": "Global Capability Center (GCC)",
+    "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
-      "Bengaluru"
+      "Bengaluru",
+      "Remote (India)"
     ],
     "batch_eligibility": [
       2025,
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000140823259",
-    "source": "SmartRecruiters",
+    "apply_url": "https://www.okta.com/company/careers/opportunity/7728553?gh_jid=7728553",
+    "source": "Greenhouse",
     "date_posted": "2026-07-31",
     "is_active": true
   },
@@ -2854,27 +2833,6 @@
     "is_active": true
   },
   {
-    "id": "91771d02e6bed7eea47e76005f04af63",
-    "company": "Okta",
-    "title": "Staff Fullstack Engineer",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.okta.com/company/careers/opportunity/8078400?gh_jid=8078400",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
     "id": "d5a732d6be59c4679ac95004dcf7e884",
     "company": "Okta",
     "title": "Staff Software Engineer - Node.js  (JavaScript or TypeScript)",
@@ -2891,27 +2849,6 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://www.okta.com/company/careers/opportunity/7602354?gh_jid=7602354",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
-    "id": "ce6fad06e62d13e7ea003739c86d8530",
-    "company": "Okta",
-    "title": "Software Architect, Java Backend",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.okta.com/company/careers/opportunity/7882676?gh_jid=7882676",
     "source": "Greenhouse",
     "date_posted": "2026-07-31",
     "is_active": true
@@ -2938,51 +2875,9 @@
     "is_active": true
   },
   {
-    "id": "b4dbbd562236557887f4e5cb06b32d91",
+    "id": "ce6fad06e62d13e7ea003739c86d8530",
     "company": "Okta",
-    "title": "Staff Engineer, Auth0 FGA Developer Platform",
-    "category": "Systems & Infrastructure/DevOps",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.okta.com/company/careers/opportunity/7703330?gh_jid=7703330",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
-    "id": "be9b5608b9804fcd6a95027b69515925",
-    "company": "Okta",
-    "title": "Staff Engineer, Developer Platform",
-    "category": "Systems & Infrastructure/DevOps",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.okta.com/company/careers/opportunity/7703326?gh_jid=7703326",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
-    "id": "c025af3674a625ec068182323ea18ecd",
-    "company": "Okta",
-    "title": "Software Architect, Lifecycle Management",
+    "title": "Software Architect, Java Backend",
     "category": "Software Engineering (Backend/Fullstack)",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
@@ -2995,28 +2890,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.okta.com/company/careers/opportunity/7771673?gh_jid=7771673",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
-    "id": "80f017a67d3e373481444fcdd68027b5",
-    "company": "Okta",
-    "title": "Staff Software Engineer ",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.okta.com/company/careers/opportunity/7893046?gh_jid=7893046",
+    "apply_url": "https://www.okta.com/company/careers/opportunity/7882676?gh_jid=7882676",
     "source": "Greenhouse",
     "date_posted": "2026-07-31",
     "is_active": true
@@ -3043,9 +2917,9 @@
     "is_active": true
   },
   {
-    "id": "a14eab1ed71f824dcd763e9d6f27995f",
+    "id": "91771d02e6bed7eea47e76005f04af63",
     "company": "Okta",
-    "title": "Staff Backend Engineer ",
+    "title": "Staff Fullstack Engineer",
     "category": "Software Engineering (Backend/Fullstack)",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
@@ -3058,7 +2932,49 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.okta.com/company/careers/opportunity/8077094?gh_jid=8077094",
+    "apply_url": "https://www.okta.com/company/careers/opportunity/8078400?gh_jid=8078400",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
+    "id": "80f017a67d3e373481444fcdd68027b5",
+    "company": "Okta",
+    "title": "Staff Software Engineer ",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://www.okta.com/company/careers/opportunity/7893046?gh_jid=7893046",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
+    "id": "b4dbbd562236557887f4e5cb06b32d91",
+    "company": "Okta",
+    "title": "Staff Engineer, Auth0 FGA Developer Platform",
+    "category": "Systems & Infrastructure/DevOps",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://www.okta.com/company/careers/opportunity/7703330?gh_jid=7703330",
     "source": "Greenhouse",
     "date_posted": "2026-07-31",
     "is_active": true
@@ -3085,9 +3001,9 @@
     "is_active": true
   },
   {
-    "id": "7925d2178dd2407e63a8a8d7539b6760",
+    "id": "a14eab1ed71f824dcd763e9d6f27995f",
     "company": "Okta",
-    "title": "Software Engineering Manager",
+    "title": "Staff Backend Engineer ",
     "category": "Software Engineering (Backend/Fullstack)",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
@@ -3100,7 +3016,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.okta.com/company/careers/opportunity/7602340?gh_jid=7602340",
+    "apply_url": "https://www.okta.com/company/careers/opportunity/8077094?gh_jid=8077094",
     "source": "Greenhouse",
     "date_posted": "2026-07-31",
     "is_active": true
@@ -3127,9 +3043,9 @@
     "is_active": true
   },
   {
-    "id": "33dd5030c732832a52ccfad0d30012e6",
+    "id": "c025af3674a625ec068182323ea18ecd",
     "company": "Okta",
-    "title": "Staff Software Engineer, Java, Spring (Backend)",
+    "title": "Software Architect, Lifecycle Management",
     "category": "Software Engineering (Backend/Fullstack)",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
@@ -3142,7 +3058,28 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.okta.com/company/careers/opportunity/7916607?gh_jid=7916607",
+    "apply_url": "https://www.okta.com/company/careers/opportunity/7771673?gh_jid=7771673",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
+    "id": "7925d2178dd2407e63a8a8d7539b6760",
+    "company": "Okta",
+    "title": "Software Engineering Manager",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://www.okta.com/company/careers/opportunity/7602340?gh_jid=7602340",
     "source": "Greenhouse",
     "date_posted": "2026-07-31",
     "is_active": true
@@ -3164,6 +3101,69 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://www.okta.com/company/careers/opportunity/7855584?gh_jid=7855584",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
+    "id": "7fd63e69f199fcc2a8022151e94dced4",
+    "company": "Okta",
+    "title": "Senior Software Engineer in Test",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://www.okta.com/company/careers/opportunity/7840415?gh_jid=7840415",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
+    "id": "be9b5608b9804fcd6a95027b69515925",
+    "company": "Okta",
+    "title": "Staff Engineer, Developer Platform",
+    "category": "Systems & Infrastructure/DevOps",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://www.okta.com/company/careers/opportunity/7703326?gh_jid=7703326",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
+    "id": "33dd5030c732832a52ccfad0d30012e6",
+    "company": "Okta",
+    "title": "Staff Software Engineer, Java, Spring (Backend)",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://www.okta.com/company/careers/opportunity/7916607?gh_jid=7916607",
     "source": "Greenhouse",
     "date_posted": "2026-07-31",
     "is_active": true
@@ -3253,27 +3253,6 @@
     "is_active": true
   },
   {
-    "id": "7c4582c35d9b5add2158973eb11d0f7b",
-    "company": "Okta",
-    "title": "Staff Software Engineer-Salesforce development",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.okta.com/company/careers/opportunity/8087945?gh_jid=8087945",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
     "id": "7f2174f9e8fd861b523b54fd03d909af",
     "company": "Okta",
     "title": "Staff Software Engineer, Security",
@@ -3295,9 +3274,9 @@
     "is_active": true
   },
   {
-    "id": "5d694052280bacf6af4aba19c65b41ab",
+    "id": "7c4582c35d9b5add2158973eb11d0f7b",
     "company": "Okta",
-    "title": "Staff Software Engineer - macOS",
+    "title": "Staff Software Engineer-Salesforce development",
     "category": "Software Engineering (Backend/Fullstack)",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
@@ -3310,7 +3289,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.okta.com/company/careers/opportunity/8007089?gh_jid=8007089",
+    "apply_url": "https://www.okta.com/company/careers/opportunity/8087945?gh_jid=8087945",
     "source": "Greenhouse",
     "date_posted": "2026-07-31",
     "is_active": true
@@ -3358,27 +3337,6 @@
     "is_active": true
   },
   {
-    "id": "67e1316135b0165c703f7faf6876a7fd",
-    "company": "Okta",
-    "title": "Staff Software Engineer - Java (DSA)",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.okta.com/company/careers/opportunity/7593685?gh_jid=7593685",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
     "id": "9db1a07ecaffc630392fe41c01cdb335",
     "company": "Okta",
     "title": "Staff Software Engineer - Windows",
@@ -3400,10 +3358,10 @@
     "is_active": true
   },
   {
-    "id": "f5665d51b26c4c7e44275b16a1b3cc50",
+    "id": "5d694052280bacf6af4aba19c65b41ab",
     "company": "Okta",
-    "title": "Staff Software Engineer, Data Platform",
-    "category": "Systems & Infrastructure/DevOps",
+    "title": "Staff Software Engineer - macOS",
+    "category": "Software Engineering (Backend/Fullstack)",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
@@ -3415,7 +3373,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.okta.com/company/careers/opportunity/8045905?gh_jid=8045905",
+    "apply_url": "https://www.okta.com/company/careers/opportunity/8007089?gh_jid=8007089",
     "source": "Greenhouse",
     "date_posted": "2026-07-31",
     "is_active": true
@@ -3442,13 +3400,14 @@
     "is_active": true
   },
   {
-    "id": "bb40255bd109905ee7650f44949730ba",
-    "company": "Twilio",
-    "title": "Senior Software Engineer",
-    "category": "Software Engineering (Backend/Fullstack)",
+    "id": "f5665d51b26c4c7e44275b16a1b3cc50",
+    "company": "Okta",
+    "title": "Staff Software Engineer, Data Platform",
+    "category": "Systems & Infrastructure/DevOps",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
+      "Bengaluru",
       "Remote (India)"
     ],
     "batch_eligibility": [
@@ -3456,9 +3415,30 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8065028",
+    "apply_url": "https://www.okta.com/company/careers/opportunity/8045905?gh_jid=8045905",
     "source": "Greenhouse",
-    "date_posted": "2026-07-30",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
+    "id": "67e1316135b0165c703f7faf6876a7fd",
+    "company": "Okta",
+    "title": "Staff Software Engineer - Java (DSA)",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://www.okta.com/company/careers/opportunity/7593685?gh_jid=7593685",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-31",
     "is_active": true
   },
   {
@@ -3478,6 +3458,26 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://job-boards.greenhouse.io/newrelic/jobs/5235295008",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-30",
+    "is_active": true
+  },
+  {
+    "id": "bb40255bd109905ee7650f44949730ba",
+    "company": "Twilio",
+    "title": "Senior Software Engineer",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8065028",
     "source": "Greenhouse",
     "date_posted": "2026-07-30",
     "is_active": true
@@ -3624,26 +3624,6 @@
     "is_active": true
   },
   {
-    "id": "6bf049c8a5d1e93444610dac359d08fc",
-    "company": "MongoDB",
-    "title": "Senior Administrator - Business Systems",
-    "category": "Systems & Infrastructure/DevOps",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "NCR (Delhi/Gurgaon/Noida)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8036348",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-29",
-    "is_active": true
-  },
-  {
     "id": "f4a0e7181f73ef18561b80a2b2751583",
     "company": "MongoDB",
     "title": "Senior Platform Engineer",
@@ -3659,26 +3639,6 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7924987",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-29",
-    "is_active": true
-  },
-  {
-    "id": "4a8ead140c2a9b15d7d9361165e2c09f",
-    "company": "MongoDB",
-    "title": "Staff Data Engineer",
-    "category": "Data & Analytics",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "NCR (Delhi/Gurgaon/Noida)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7858063",
     "source": "Greenhouse",
     "date_posted": "2026-07-29",
     "is_active": true
@@ -3704,9 +3664,9 @@
     "is_active": true
   },
   {
-    "id": "192dee687ec909c290df14d2acb7b2be",
+    "id": "27b85e7ae480b9eba3fbbb015b70e745",
     "company": "MongoDB",
-    "title": "Lead, Platform Engineering",
+    "title": "Staff Engineer - Business Systems (Integrations)",
     "category": "Systems & Infrastructure/DevOps",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
@@ -3718,7 +3678,28 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8071475",
+    "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7778981",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-29",
+    "is_active": true
+  },
+  {
+    "id": "fbefd4703655524641e27f9543a7f42c",
+    "company": "MongoDB",
+    "title": "Senior Engineer - Business Systems (FP&A)",
+    "category": "Systems & Infrastructure/DevOps",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "NCR (Delhi/Gurgaon/Noida)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7942613",
     "source": "Greenhouse",
     "date_posted": "2026-07-29",
     "is_active": true
@@ -3744,9 +3725,29 @@
     "is_active": true
   },
   {
-    "id": "27b85e7ae480b9eba3fbbb015b70e745",
+    "id": "90864a5ab729781659780abf2d736599",
     "company": "MongoDB",
-    "title": "Staff Engineer - Business Systems (Integrations)",
+    "title": "Software Engineer 3",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "NCR (Delhi/Gurgaon/Noida)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7908785",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-29",
+    "is_active": true
+  },
+  {
+    "id": "192dee687ec909c290df14d2acb7b2be",
+    "company": "MongoDB",
+    "title": "Lead, Platform Engineering",
     "category": "Systems & Infrastructure/DevOps",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
@@ -3758,7 +3759,27 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7778981",
+    "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8071475",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-29",
+    "is_active": true
+  },
+  {
+    "id": "4a8ead140c2a9b15d7d9361165e2c09f",
+    "company": "MongoDB",
+    "title": "Staff Data Engineer",
+    "category": "Data & Analytics",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "NCR (Delhi/Gurgaon/Noida)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7858063",
     "source": "Greenhouse",
     "date_posted": "2026-07-29",
     "is_active": true
@@ -3784,10 +3805,10 @@
     "is_active": true
   },
   {
-    "id": "90864a5ab729781659780abf2d736599",
+    "id": "6bf049c8a5d1e93444610dac359d08fc",
     "company": "MongoDB",
-    "title": "Software Engineer 3",
-    "category": "Software Engineering (Backend/Fullstack)",
+    "title": "Senior Administrator - Business Systems",
+    "category": "Systems & Infrastructure/DevOps",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
@@ -3798,30 +3819,29 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7908785",
+    "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8036348",
     "source": "Greenhouse",
     "date_posted": "2026-07-29",
     "is_active": true
   },
   {
-    "id": "fbefd4703655524641e27f9543a7f42c",
-    "company": "MongoDB",
-    "title": "Senior Engineer - Business Systems (FP&A)",
-    "category": "Systems & Infrastructure/DevOps",
+    "id": "3a05471faf25cb3b6c67f4f189168121",
+    "company": "Datadog",
+    "title": "Senior Developer Advocate - Data Observability",
+    "category": "Software Engineering (Backend/Fullstack)",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
-      "Bengaluru",
-      "NCR (Delhi/Gurgaon/Noida)"
+      "Remote (India)"
     ],
     "batch_eligibility": [
       2025,
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7942613",
+    "apply_url": "https://careers.datadoghq.com/detail/7555520/?gh_jid=7555520",
     "source": "Greenhouse",
-    "date_posted": "2026-07-29",
+    "date_posted": "2026-07-28",
     "is_active": true
   },
   {
@@ -3860,26 +3880,6 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://careers.datadoghq.com/detail/8007606/?gh_jid=8007606",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-28",
-    "is_active": true
-  },
-  {
-    "id": "3a05471faf25cb3b6c67f4f189168121",
-    "company": "Datadog",
-    "title": "Senior Developer Advocate - Data Observability",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://careers.datadoghq.com/detail/7555520/?gh_jid=7555520",
     "source": "Greenhouse",
     "date_posted": "2026-07-28",
     "is_active": true
@@ -3945,27 +3945,6 @@
     "is_active": true
   },
   {
-    "id": "d71bc80a9b04e661ec6f5358d992dc88",
-    "company": "Pure Storage",
-    "title": "MTS - Kernel / Storage Systems Architect",
-    "category": "Systems & Infrastructure/DevOps",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/7989379",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-28",
-    "is_active": true
-  },
-  {
     "id": "18cdbf3d8f24765c5da70a51462ce645",
     "company": "Pure Storage",
     "title": "Member of Technical Staff, Backend - Portworx",
@@ -3982,6 +3961,27 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/7989830",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-28",
+    "is_active": true
+  },
+  {
+    "id": "d71bc80a9b04e661ec6f5358d992dc88",
+    "company": "Pure Storage",
+    "title": "MTS - Kernel / Storage Systems Architect",
+    "category": "Systems & Infrastructure/DevOps",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/7989379",
     "source": "Greenhouse",
     "date_posted": "2026-07-28",
     "is_active": true
@@ -4049,6 +4049,27 @@
     "is_active": true
   },
   {
+    "id": "d4e2624528edb1ce4f9988a08b6d16e9",
+    "company": "Elastic",
+    "title": "Cloud Billing Associate",
+    "category": "Systems & Infrastructure/DevOps",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7991494&gh_jid=7991494",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-28",
+    "is_active": true
+  },
+  {
     "id": "a625ec24902732202c235c5d4a08db4f",
     "company": "Elastic",
     "title": "Senior Lead, Cloud Billing Operations",
@@ -4070,9 +4091,9 @@
     "is_active": true
   },
   {
-    "id": "d4e2624528edb1ce4f9988a08b6d16e9",
-    "company": "Elastic",
-    "title": "Cloud Billing Associate",
+    "id": "e7f779b86c8d445a3e614784c3bd2742",
+    "company": "Pure Storage",
+    "title": "MTS - Systems Performance Engineer",
     "category": "Systems & Infrastructure/DevOps",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
@@ -4085,9 +4106,9 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7991494&gh_jid=7991494",
+    "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/8069418",
     "source": "Greenhouse",
-    "date_posted": "2026-07-28",
+    "date_posted": "2026-07-27",
     "is_active": true
   },
   {
@@ -4111,13 +4132,14 @@
     "is_active": true
   },
   {
-    "id": "9eb634e4c2ae3364b20c79d5afbe6c5b",
-    "company": "Stripe",
-    "title": "Backend Engineer, AI Security",
+    "id": "a4bd002ceeb4acb77f8f5e1dc27ec49e",
+    "company": "Databricks",
+    "title": "Data and AI Lead, Finance",
     "category": "AI/ML & GenAI",
     "tier": "High-Paying Startup / AI Lab",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
+      "Bengaluru",
       "Remote (India)"
     ],
     "batch_eligibility": [
@@ -4125,27 +4147,28 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://stripe.com/jobs/search?gh_jid=7826765",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8604598002",
     "source": "Greenhouse",
     "date_posted": "2026-07-27",
     "is_active": true
   },
   {
-    "id": "804dc483b5c68c6d4e632281c34b9cd9",
-    "company": "Stripe",
-    "title": "Data Science Manager, Risk",
+    "id": "92beed4fbbb1be7c3d09dbfec3e1785a",
+    "company": "Databricks",
+    "title": "Senior - Finance Data and AI Specialist",
     "category": "AI/ML & GenAI",
     "tier": "High-Paying Startup / AI Lab",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
-      "Bengaluru"
+      "Bengaluru",
+      "Remote (India)"
     ],
     "batch_eligibility": [
       2025,
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://stripe.com/jobs/search?gh_jid=7923653",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8604579002",
     "source": "Greenhouse",
     "date_posted": "2026-07-27",
     "is_active": true
@@ -4166,6 +4189,26 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://stripe.com/jobs/search?gh_jid=7091959",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-27",
+    "is_active": true
+  },
+  {
+    "id": "804dc483b5c68c6d4e632281c34b9cd9",
+    "company": "Stripe",
+    "title": "Data Science Manager, Risk",
+    "category": "AI/ML & GenAI",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7923653",
     "source": "Greenhouse",
     "date_posted": "2026-07-27",
     "is_active": true
@@ -4231,35 +4274,13 @@
     "is_active": true
   },
   {
-    "id": "e7f779b86c8d445a3e614784c3bd2742",
-    "company": "Pure Storage",
-    "title": "MTS - Systems Performance Engineer",
-    "category": "Systems & Infrastructure/DevOps",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/8069418",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-27",
-    "is_active": true
-  },
-  {
-    "id": "92beed4fbbb1be7c3d09dbfec3e1785a",
-    "company": "Databricks",
-    "title": "Senior - Finance Data and AI Specialist",
+    "id": "9eb634e4c2ae3364b20c79d5afbe6c5b",
+    "company": "Stripe",
+    "title": "Backend Engineer, AI Security",
     "category": "AI/ML & GenAI",
     "tier": "High-Paying Startup / AI Lab",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
-      "Bengaluru",
       "Remote (India)"
     ],
     "batch_eligibility": [
@@ -4267,28 +4288,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8604579002",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-27",
-    "is_active": true
-  },
-  {
-    "id": "a4bd002ceeb4acb77f8f5e1dc27ec49e",
-    "company": "Databricks",
-    "title": "Data and AI Lead, Finance",
-    "category": "AI/ML & GenAI",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8604598002",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7826765",
     "source": "Greenhouse",
     "date_posted": "2026-07-27",
     "is_active": true
@@ -4314,26 +4314,6 @@
     "is_active": true
   },
   {
-    "id": "6d561aa198633b6432e53a7d6e51975f",
-    "company": "Stripe",
-    "title": "SDC Operations Manager, Financial Crimes (AML)",
-    "category": "AI/ML & GenAI",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://stripe.com/jobs/search?gh_jid=7325566",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-27",
-    "is_active": true
-  },
-  {
     "id": "a6ba00e9c7fe6f5964de89bc7a228085",
     "company": "Stripe",
     "title": "Staff Product Manager, ML Foundations and GenAI",
@@ -4354,32 +4334,11 @@
     "is_active": true
   },
   {
-    "id": "25fd75219c08c48c3ebcbf089d243e93",
-    "company": "Rubrik",
-    "title": "Architect, AI Data Platform & Engineering",
+    "id": "6d561aa198633b6432e53a7d6e51975f",
+    "company": "Stripe",
+    "title": "SDC Operations Manager, Financial Crimes (AML)",
     "category": "AI/ML & GenAI",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.rubrik.com/company/careers/departments/job.7510636?gh_jid=7510636",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-27",
-    "is_active": true
-  },
-  {
-    "id": "1afedb4e199ab8d9737f3fdd23d2ca4d",
-    "company": "Rubrik",
-    "title": "Software Engineer - Hypervisor ",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
+    "tier": "High-Paying Startup / AI Lab",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
       "Bengaluru"
@@ -4389,7 +4348,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.rubrik.com/company/careers/departments/job.8050714?gh_jid=8050714",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7325566",
     "source": "Greenhouse",
     "date_posted": "2026-07-27",
     "is_active": true
@@ -4415,6 +4374,46 @@
     "is_active": true
   },
   {
+    "id": "ba48e4a9c80549e5abd0185f070b9312",
+    "company": "Stripe",
+    "title": "Head of Self-Serve Paid Media",
+    "category": "AI/ML & GenAI",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=8068521",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-27",
+    "is_active": true
+  },
+  {
+    "id": "0d1cbf24bdf9c589bd30872c1c5ab533",
+    "company": "Stripe",
+    "title": "Staff Software Engineer, Data Engineering Solutions",
+    "category": "Data & Analytics",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7548037",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-27",
+    "is_active": true
+  },
+  {
     "id": "80a56bc1cd65d561962630a7e699c5d7",
     "company": "Stripe",
     "title": "Product Manager, Growth AI Outreach Motion ",
@@ -4430,6 +4429,66 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://stripe.com/jobs/search?gh_jid=7809139",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-27",
+    "is_active": true
+  },
+  {
+    "id": "a396a4bd87bfe8557dd1ae78040ce752",
+    "company": "Stripe",
+    "title": "Software Engineer, Optimized Checkout & Link",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=8075469",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-27",
+    "is_active": true
+  },
+  {
+    "id": "7c977f38b395bed1c0c7aa783d1a387f",
+    "company": "Stripe",
+    "title": "Enterprise Paid Digital Marketing Manager",
+    "category": "AI/ML & GenAI",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7617049",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-27",
+    "is_active": true
+  },
+  {
+    "id": "0ec3f43005cbc5c29c554e8139bb5ca1",
+    "company": "Stripe",
+    "title": "Strategy and Analytics Business Partner",
+    "category": "Data & Analytics",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7813411",
     "source": "Greenhouse",
     "date_posted": "2026-07-27",
     "is_active": true
@@ -4456,13 +4515,14 @@
     "is_active": true
   },
   {
-    "id": "ba48e4a9c80549e5abd0185f070b9312",
-    "company": "Stripe",
-    "title": "Head of Self-Serve Paid Media",
+    "id": "25fd75219c08c48c3ebcbf089d243e93",
+    "company": "Rubrik",
+    "title": "Architect, AI Data Platform & Engineering",
     "category": "AI/ML & GenAI",
-    "tier": "High-Paying Startup / AI Lab",
+    "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
+      "Bengaluru",
       "Remote (India)"
     ],
     "batch_eligibility": [
@@ -4470,7 +4530,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://stripe.com/jobs/search?gh_jid=8068521",
+    "apply_url": "https://www.rubrik.com/company/careers/departments/job.7510636?gh_jid=7510636",
     "source": "Greenhouse",
     "date_posted": "2026-07-27",
     "is_active": true
@@ -4496,11 +4556,11 @@
     "is_active": true
   },
   {
-    "id": "0d1cbf24bdf9c589bd30872c1c5ab533",
-    "company": "Stripe",
-    "title": "Staff Software Engineer, Data Engineering Solutions",
-    "category": "Data & Analytics",
-    "tier": "High-Paying Startup / AI Lab",
+    "id": "1afedb4e199ab8d9737f3fdd23d2ca4d",
+    "company": "Rubrik",
+    "title": "Software Engineer - Hypervisor ",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
       "Bengaluru"
@@ -4510,7 +4570,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://stripe.com/jobs/search?gh_jid=7548037",
+    "apply_url": "https://www.rubrik.com/company/careers/departments/job.8050714?gh_jid=8050714",
     "source": "Greenhouse",
     "date_posted": "2026-07-27",
     "is_active": true
@@ -4557,66 +4617,6 @@
     "is_active": true
   },
   {
-    "id": "a396a4bd87bfe8557dd1ae78040ce752",
-    "company": "Stripe",
-    "title": "Software Engineer, Optimized Checkout & Link",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://stripe.com/jobs/search?gh_jid=8075469",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-27",
-    "is_active": true
-  },
-  {
-    "id": "0ec3f43005cbc5c29c554e8139bb5ca1",
-    "company": "Stripe",
-    "title": "Strategy and Analytics Business Partner",
-    "category": "Data & Analytics",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://stripe.com/jobs/search?gh_jid=7813411",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-27",
-    "is_active": true
-  },
-  {
-    "id": "7c977f38b395bed1c0c7aa783d1a387f",
-    "company": "Stripe",
-    "title": "Enterprise Paid Digital Marketing Manager",
-    "category": "AI/ML & GenAI",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://stripe.com/jobs/search?gh_jid=7617049",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-27",
-    "is_active": true
-  },
-  {
     "id": "63c139c340ebede99eb319457b52e376",
     "company": "Databricks",
     "title": "Senior Software Engineer (Money)",
@@ -4633,6 +4633,26 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7654347002",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-24",
+    "is_active": true
+  },
+  {
+    "id": "20499c73bc6b12867578754cd3f49ff9",
+    "company": "Databricks",
+    "title": "Solutions Architect - Strategic AI Natives",
+    "category": "AI/ML & GenAI",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8487768002",
     "source": "Greenhouse",
     "date_posted": "2026-07-24",
     "is_active": true
@@ -4659,13 +4679,14 @@
     "is_active": true
   },
   {
-    "id": "20499c73bc6b12867578754cd3f49ff9",
+    "id": "69dc8224bfa06b7b99dd89d0af0dc617",
     "company": "Databricks",
-    "title": "Solutions Architect - Strategic AI Natives",
-    "category": "AI/ML & GenAI",
+    "title": "Senior Software Engineer - Ingestion",
+    "category": "Software Engineering (Backend/Fullstack)",
     "tier": "High-Paying Startup / AI Lab",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
+      "Bengaluru",
       "Remote (India)"
     ],
     "batch_eligibility": [
@@ -4673,7 +4694,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8487768002",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7934782002",
     "source": "Greenhouse",
     "date_posted": "2026-07-24",
     "is_active": true
@@ -4695,27 +4716,6 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7439442002",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-24",
-    "is_active": true
-  },
-  {
-    "id": "69dc8224bfa06b7b99dd89d0af0dc617",
-    "company": "Databricks",
-    "title": "Senior Software Engineer - Ingestion",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7934782002",
     "source": "Greenhouse",
     "date_posted": "2026-07-24",
     "is_active": true
@@ -4784,6 +4784,27 @@
     "is_active": true
   },
   {
+    "id": "7d9551148598e9e7a67b5d418c816a7b",
+    "company": "Databricks",
+    "title": "Senior Staff Software Engineer (Backend)",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7651326002",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-24",
+    "is_active": true
+  },
+  {
     "id": "22d5b2a27f706a34812314ef4caa1c10",
     "company": "Databricks",
     "title": "Senior Software Engineer- Networking",
@@ -4805,14 +4826,13 @@
     "is_active": true
   },
   {
-    "id": "7d9551148598e9e7a67b5d418c816a7b",
-    "company": "Databricks",
-    "title": "Senior Staff Software Engineer (Backend)",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "High-Paying Startup / AI Lab",
+    "id": "5bda52285015c264b50e11d3df07509e",
+    "company": "Twilio",
+    "title": "Machine Learning Engineer",
+    "category": "AI/ML & GenAI",
+    "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
-      "Bengaluru",
       "Remote (India)"
     ],
     "batch_eligibility": [
@@ -4820,7 +4840,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7651326002",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7702644",
     "source": "Greenhouse",
     "date_posted": "2026-07-24",
     "is_active": true
@@ -4847,11 +4867,11 @@
     "is_active": true
   },
   {
-    "id": "9d09bc56a71c44d6a2181fcb1ffe925b",
-    "company": "Databricks",
-    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
-    "category": "AI/ML & GenAI",
-    "tier": "High-Paying Startup / AI Lab",
+    "id": "0a975bb9cd7c9ae435ed99d1ddca5609",
+    "company": "Twilio",
+    "title": "Principal Product Manager, Enterprise Commerce Platform",
+    "category": "Systems & Infrastructure/DevOps",
+    "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
       "Remote (India)"
@@ -4861,7 +4881,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593713002",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8069243",
     "source": "Greenhouse",
     "date_posted": "2026-07-24",
     "is_active": true
@@ -4888,10 +4908,30 @@
     "is_active": true
   },
   {
-    "id": "5bda52285015c264b50e11d3df07509e",
-    "company": "Twilio",
-    "title": "Machine Learning Engineer",
+    "id": "9d09bc56a71c44d6a2181fcb1ffe925b",
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
     "category": "AI/ML & GenAI",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593713002",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-24",
+    "is_active": true
+  },
+  {
+    "id": "e9641ce5ccb788a505bcf8c693d91498",
+    "company": "Twilio",
+    "title": "Principal Software Engineer",
+    "category": "Software Engineering (Backend/Fullstack)",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
@@ -4902,7 +4942,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7702644",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7644471",
     "source": "Greenhouse",
     "date_posted": "2026-07-24",
     "is_active": true
@@ -4924,46 +4964,6 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8421894002",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-24",
-    "is_active": true
-  },
-  {
-    "id": "0a975bb9cd7c9ae435ed99d1ddca5609",
-    "company": "Twilio",
-    "title": "Principal Product Manager, Enterprise Commerce Platform",
-    "category": "Systems & Infrastructure/DevOps",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8069243",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-24",
-    "is_active": true
-  },
-  {
-    "id": "99785235d27cc134b27c091463f4166a",
-    "company": "Databricks",
-    "title": "Sr. Director, Enterprise - Retail Vertical - Strategic Accounts ",
-    "category": "AI/ML & GenAI",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8568151002",
     "source": "Greenhouse",
     "date_posted": "2026-07-24",
     "is_active": true
@@ -5011,10 +5011,10 @@
     "is_active": true
   },
   {
-    "id": "e9641ce5ccb788a505bcf8c693d91498",
+    "id": "a22eef76d3072496dc8d01adf89a53c9",
     "company": "Twilio",
-    "title": "Principal Software Engineer",
-    "category": "Software Engineering (Backend/Fullstack)",
+    "title": "Security Compliance & Regulatory Affairs Analyst",
+    "category": "AI/ML & GenAI",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
@@ -5025,20 +5025,19 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7644471",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7599044",
     "source": "Greenhouse",
     "date_posted": "2026-07-24",
     "is_active": true
   },
   {
-    "id": "dcbc2edf983ee119ea7c78fbe2ed35f8",
-    "company": "Databricks",
-    "title": "Specialist Solutions Architect - AI/ML",
+    "id": "154ef75aa526ab175b07951ac0f5d37d",
+    "company": "Twilio",
+    "title": "Senior Environmental Sustainability & ESG Manager",
     "category": "AI/ML & GenAI",
-    "tier": "High-Paying Startup / AI Lab",
+    "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
-      "Bengaluru",
       "Remote (India)"
     ],
     "batch_eligibility": [
@@ -5046,7 +5045,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585164002",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8008030",
     "source": "Greenhouse",
     "date_posted": "2026-07-24",
     "is_active": true
@@ -5073,10 +5072,50 @@
     "is_active": true
   },
   {
-    "id": "af350ac8ebd7c3aa76746a5f9963bd15",
+    "id": "99785235d27cc134b27c091463f4166a",
     "company": "Databricks",
-    "title": "Staff Software Engineer - Data Platform",
-    "category": "Systems & Infrastructure/DevOps",
+    "title": "Sr. Director, Enterprise - Retail Vertical - Strategic Accounts ",
+    "category": "AI/ML & GenAI",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8568151002",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-24",
+    "is_active": true
+  },
+  {
+    "id": "304deda622466739e64f38dbfc935aa7",
+    "company": "Twilio",
+    "title": "Senior Manager, Machine Learning",
+    "category": "AI/ML & GenAI",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7919148",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-24",
+    "is_active": true
+  },
+  {
+    "id": "dcbc2edf983ee119ea7c78fbe2ed35f8",
+    "company": "Databricks",
+    "title": "Specialist Solutions Architect - AI/ML",
+    "category": "AI/ML & GenAI",
     "tier": "High-Paying Startup / AI Lab",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
@@ -5088,20 +5127,19 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7601572002",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585164002",
     "source": "Greenhouse",
     "date_posted": "2026-07-24",
     "is_active": true
   },
   {
-    "id": "5541b19887986172818968c6e5d42212",
+    "id": "56efeeb5dbb70ff9054fd6ebbeb9c5d4",
     "company": "Databricks",
-    "title": "Specialist Solutions Architect - AI/ML",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
     "category": "AI/ML & GenAI",
     "tier": "High-Paying Startup / AI Lab",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
-      "Mumbai",
       "Remote (India)"
     ],
     "batch_eligibility": [
@@ -5109,7 +5147,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593505002",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647677002",
     "source": "Greenhouse",
     "date_posted": "2026-07-24",
     "is_active": true
@@ -5136,34 +5174,14 @@
     "is_active": true
   },
   {
-    "id": "df081023e2dcafc505ccfc2c1c7094f0",
+    "id": "5541b19887986172818968c6e5d42212",
     "company": "Databricks",
-    "title": "Senior Staff Software Engineer- Networking",
-    "category": "Systems & Infrastructure/DevOps",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8433583002",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-24",
-    "is_active": true
-  },
-  {
-    "id": "56efeeb5dbb70ff9054fd6ebbeb9c5d4",
-    "company": "Databricks",
-    "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
+    "title": "Specialist Solutions Architect - AI/ML",
     "category": "AI/ML & GenAI",
     "tier": "High-Paying Startup / AI Lab",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
+      "Mumbai",
       "Remote (India)"
     ],
     "batch_eligibility": [
@@ -5171,67 +5189,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647677002",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-24",
-    "is_active": true
-  },
-  {
-    "id": "a22eef76d3072496dc8d01adf89a53c9",
-    "company": "Twilio",
-    "title": "Security Compliance & Regulatory Affairs Analyst",
-    "category": "AI/ML & GenAI",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7599044",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-24",
-    "is_active": true
-  },
-  {
-    "id": "5d90f78fcaf51909f129460239346a80",
-    "company": "Twilio",
-    "title": "Principal Software Engineer - Identity Graph",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8067270",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-24",
-    "is_active": true
-  },
-  {
-    "id": "154ef75aa526ab175b07951ac0f5d37d",
-    "company": "Twilio",
-    "title": "Senior Environmental Sustainability & ESG Manager",
-    "category": "AI/ML & GenAI",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8008030",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593505002",
     "source": "Greenhouse",
     "date_posted": "2026-07-24",
     "is_active": true
@@ -5257,13 +5215,14 @@
     "is_active": true
   },
   {
-    "id": "304deda622466739e64f38dbfc935aa7",
-    "company": "Twilio",
-    "title": "Senior Manager, Machine Learning",
-    "category": "AI/ML & GenAI",
-    "tier": "Enterprise SaaS & DevTools",
+    "id": "df081023e2dcafc505ccfc2c1c7094f0",
+    "company": "Databricks",
+    "title": "Senior Staff Software Engineer- Networking",
+    "category": "Systems & Infrastructure/DevOps",
+    "tier": "High-Paying Startup / AI Lab",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
+      "Bengaluru",
       "Remote (India)"
     ],
     "batch_eligibility": [
@@ -5271,7 +5230,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7919148",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8433583002",
     "source": "Greenhouse",
     "date_posted": "2026-07-24",
     "is_active": true
@@ -5298,6 +5257,46 @@
     "is_active": true
   },
   {
+    "id": "12bb5a4250adb83af925f87e9ce11185",
+    "company": "Twilio",
+    "title": "Staff, Analytics Engineer, GTM Data Science & Analytics",
+    "category": "AI/ML & GenAI",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8008538",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-24",
+    "is_active": true
+  },
+  {
+    "id": "0edfcd0494fbbb6bc055e6bd773552d6",
+    "company": "Twilio",
+    "title": "Staff Product Manager - Enterprise AI",
+    "category": "AI/ML & GenAI",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7918885",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-24",
+    "is_active": true
+  },
+  {
     "id": "5402a1aa76a75896581c2c7841bae2ad",
     "company": "Databricks",
     "title": "Staff Software Engineer (Core Experiences) ",
@@ -5314,6 +5313,67 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6716344002",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-24",
+    "is_active": true
+  },
+  {
+    "id": "af350ac8ebd7c3aa76746a5f9963bd15",
+    "company": "Databricks",
+    "title": "Staff Software Engineer - Data Platform",
+    "category": "Systems & Infrastructure/DevOps",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7601572002",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-24",
+    "is_active": true
+  },
+  {
+    "id": "4ff1209f9de3f57eea6a605f767574cb",
+    "company": "Databricks",
+    "title": "Staff Security Software Engineer, AI Security",
+    "category": "AI/ML & GenAI",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8026634002",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-24",
+    "is_active": true
+  },
+  {
+    "id": "c79915e541e0291140225bca33dffbf7",
+    "company": "Twilio",
+    "title": "Senior / Staff Applied Research Software Engineer - Emerging Tech",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7993959",
     "source": "Greenhouse",
     "date_posted": "2026-07-24",
     "is_active": true
@@ -5340,26 +5400,6 @@
     "is_active": true
   },
   {
-    "id": "4ff1209f9de3f57eea6a605f767574cb",
-    "company": "Databricks",
-    "title": "Staff Security Software Engineer, AI Security",
-    "category": "AI/ML & GenAI",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8026634002",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-24",
-    "is_active": true
-  },
-  {
     "id": "90dbeb1af269fc97a7e6dd479dc0540c",
     "company": "Twilio",
     "title": "Senior Software Engineer, Identity",
@@ -5375,6 +5415,26 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8056276",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-24",
+    "is_active": true
+  },
+  {
+    "id": "67bce139bbf86fa29174a72a2251042d",
+    "company": "Twilio",
+    "title": "Software Architect (L6)",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7825089",
     "source": "Greenhouse",
     "date_posted": "2026-07-24",
     "is_active": true
@@ -5401,29 +5461,9 @@
     "is_active": true
   },
   {
-    "id": "4945095f75dd1da7b7245bec3106a23a",
+    "id": "ef83fff9aafcbea9bdd53754895ed32f",
     "company": "Twilio",
-    "title": "Senior Manager Software Engineering",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7938645",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-24",
-    "is_active": true
-  },
-  {
-    "id": "0edfcd0494fbbb6bc055e6bd773552d6",
-    "company": "Twilio",
-    "title": "Staff Product Manager - Enterprise AI",
+    "title": "Staff, Software Engineer (L4) - Email",
     "category": "AI/ML & GenAI",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
@@ -5435,27 +5475,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7918885",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-24",
-    "is_active": true
-  },
-  {
-    "id": "12bb5a4250adb83af925f87e9ce11185",
-    "company": "Twilio",
-    "title": "Staff, Analytics Engineer, GTM Data Science & Analytics",
-    "category": "AI/ML & GenAI",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8008538",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7967685",
     "source": "Greenhouse",
     "date_posted": "2026-07-24",
     "is_active": true
@@ -5482,9 +5502,9 @@
     "is_active": true
   },
   {
-    "id": "c79915e541e0291140225bca33dffbf7",
+    "id": "5d90f78fcaf51909f129460239346a80",
     "company": "Twilio",
-    "title": "Senior / Staff Applied Research Software Engineer - Emerging Tech",
+    "title": "Principal Software Engineer - Identity Graph",
     "category": "Software Engineering (Backend/Fullstack)",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
@@ -5496,7 +5516,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7993959",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8067270",
     "source": "Greenhouse",
     "date_posted": "2026-07-24",
     "is_active": true
@@ -5523,30 +5543,9 @@
     "is_active": true
   },
   {
-    "id": "86d7be53c13a49deae0129a0f01b166e",
-    "company": "Databricks",
-    "title": "Staff Software Engineer (Data Platform)",
-    "category": "Systems & Infrastructure/DevOps",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7652016002",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-24",
-    "is_active": true
-  },
-  {
-    "id": "67bce139bbf86fa29174a72a2251042d",
+    "id": "4945095f75dd1da7b7245bec3106a23a",
     "company": "Twilio",
-    "title": "Software Architect (L6)",
+    "title": "Senior Manager Software Engineering",
     "category": "Software Engineering (Backend/Fullstack)",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
@@ -5558,48 +5557,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7825089",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-24",
-    "is_active": true
-  },
-  {
-    "id": "ef83fff9aafcbea9bdd53754895ed32f",
-    "company": "Twilio",
-    "title": "Staff, Software Engineer (L4) - Email",
-    "category": "AI/ML & GenAI",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7967685",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-24",
-    "is_active": true
-  },
-  {
-    "id": "899409ce5193d7ecbf59e4acdaac616a",
-    "company": "Databricks",
-    "title": "Staff Software Engineer - Ingestion",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200692002",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7938645",
     "source": "Greenhouse",
     "date_posted": "2026-07-24",
     "is_active": true
@@ -5645,26 +5603,6 @@
     "is_active": true
   },
   {
-    "id": "f221b92d2c5eaa7b6dc8bee26493018d",
-    "company": "Databricks",
-    "title": "Staff Security Software Engineer, AI Security Engineering ",
-    "category": "AI/ML & GenAI",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7882009002",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-24",
-    "is_active": true
-  },
-  {
     "id": "2182f8dcbce772cbba6bbc51b8fca5db",
     "company": "Twilio",
     "title": "Senior Software Engineer, Fraud",
@@ -5680,26 +5618,6 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7595407",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-24",
-    "is_active": true
-  },
-  {
-    "id": "bd8ba15f00a8d0c36e8a8aae59b467b0",
-    "company": "Twilio",
-    "title": "Staff Software Engineer",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7944328",
     "source": "Greenhouse",
     "date_posted": "2026-07-24",
     "is_active": true
@@ -5725,10 +5643,30 @@
     "is_active": true
   },
   {
-    "id": "a95c0583db638e1793d2c2a08acdca2a",
-    "company": "Databricks",
-    "title": "Staff Software Engineer - Ingestion",
+    "id": "bd8ba15f00a8d0c36e8a8aae59b467b0",
+    "company": "Twilio",
+    "title": "Staff Software Engineer",
     "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7944328",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-24",
+    "is_active": true
+  },
+  {
+    "id": "86d7be53c13a49deae0129a0f01b166e",
+    "company": "Databricks",
+    "title": "Staff Software Engineer (Data Platform)",
+    "category": "Systems & Infrastructure/DevOps",
     "tier": "High-Paying Startup / AI Lab",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
@@ -5740,7 +5678,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8201686002",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7652016002",
     "source": "Greenhouse",
     "date_posted": "2026-07-24",
     "is_active": true
@@ -5761,6 +5699,27 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8568868002",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-24",
+    "is_active": true
+  },
+  {
+    "id": "899409ce5193d7ecbf59e4acdaac616a",
+    "company": "Databricks",
+    "title": "Staff Software Engineer - Ingestion",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200692002",
     "source": "Greenhouse",
     "date_posted": "2026-07-24",
     "is_active": true
@@ -5787,6 +5746,46 @@
     "is_active": true
   },
   {
+    "id": "f221b92d2c5eaa7b6dc8bee26493018d",
+    "company": "Databricks",
+    "title": "Staff Security Software Engineer, AI Security Engineering ",
+    "category": "AI/ML & GenAI",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7882009002",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-24",
+    "is_active": true
+  },
+  {
+    "id": "cc3a8bbffc766bff3c8d9c1f79feca3a",
+    "company": "Twilio",
+    "title": "Software Engineer (L3) Data Substrate",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7954715",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-24",
+    "is_active": true
+  },
+  {
     "id": "951ed3e1d985dfbb91205c2338c06c6d",
     "company": "Databricks",
     "title": "Staff Software Engineer (L6) - Partner Ecosystem",
@@ -5803,6 +5802,67 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8476582002",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-24",
+    "is_active": true
+  },
+  {
+    "id": "827d27562ba0f3221e311223fb1bc1ed",
+    "company": "Twilio",
+    "title": "Sr AI Architect - Conversational AI",
+    "category": "AI/ML & GenAI",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7926891",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-24",
+    "is_active": true
+  },
+  {
+    "id": "a95c0583db638e1793d2c2a08acdca2a",
+    "company": "Databricks",
+    "title": "Staff Software Engineer - Ingestion",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8201686002",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-24",
+    "is_active": true
+  },
+  {
+    "id": "42bf04968a7da36adc79074d01f3cbd2",
+    "company": "GitLab",
+    "title": "Senior Solutions Architect - AI & Platforms SME",
+    "category": "AI/ML & GenAI",
+    "tier": "Global Remote",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8476375002",
     "source": "Greenhouse",
     "date_posted": "2026-07-24",
     "is_active": true
@@ -5829,26 +5889,6 @@
     "is_active": true
   },
   {
-    "id": "827d27562ba0f3221e311223fb1bc1ed",
-    "company": "Twilio",
-    "title": "Sr AI Architect - Conversational AI",
-    "category": "AI/ML & GenAI",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7926891",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-24",
-    "is_active": true
-  },
-  {
     "id": "3160a7e459e8a83221c00f863815e5b8",
     "company": "Twilio",
     "title": "Staff Software Engineer (L4) Data Platform",
@@ -5864,26 +5904,6 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7782805",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-24",
-    "is_active": true
-  },
-  {
-    "id": "cc3a8bbffc766bff3c8d9c1f79feca3a",
-    "company": "Twilio",
-    "title": "Software Engineer (L3) Data Substrate",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7954715",
     "source": "Greenhouse",
     "date_posted": "2026-07-24",
     "is_active": true
@@ -5910,13 +5930,14 @@
     "is_active": true
   },
   {
-    "id": "42bf04968a7da36adc79074d01f3cbd2",
-    "company": "GitLab",
-    "title": "Senior Solutions Architect - AI & Platforms SME",
-    "category": "AI/ML & GenAI",
-    "tier": "Global Remote",
+    "id": "1965d975181538551febe01de1bbf7bd",
+    "company": "Databricks",
+    "title": "Staff Software Engineer  (Search Ranking)",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "High-Paying Startup / AI Lab",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
+      "Bengaluru",
       "Remote (India)"
     ],
     "batch_eligibility": [
@@ -5924,7 +5945,70 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8476375002",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7958688002",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-24",
+    "is_active": true
+  },
+  {
+    "id": "07a78f7e8582459710c53f68b306a62d",
+    "company": "Databricks",
+    "title": "Staff Software Engineer - Machine Learning (Search)",
+    "category": "AI/ML & GenAI",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7958982002",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-24",
+    "is_active": true
+  },
+  {
+    "id": "c7a51643e5226782c89e0fb0dbdacfb7",
+    "company": "Databricks",
+    "title": "Staff Software Engineer- Search Quality",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8439348002",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-24",
+    "is_active": true
+  },
+  {
+    "id": "9414eed009f8e662e879ac1906db49aa",
+    "company": "Databricks",
+    "title": "Staff Software Engineer - Multi Cloud Efficiency",
+    "category": "Systems & Infrastructure/DevOps",
+    "tier": "High-Paying Startup / AI Lab",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593107002",
     "source": "Greenhouse",
     "date_posted": "2026-07-24",
     "is_active": true
@@ -5970,56 +6054,14 @@
     "is_active": true
   },
   {
-    "id": "07a78f7e8582459710c53f68b306a62d",
-    "company": "Databricks",
-    "title": "Staff Software Engineer - Machine Learning (Search)",
-    "category": "AI/ML & GenAI",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7958982002",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-24",
-    "is_active": true
-  },
-  {
-    "id": "1965d975181538551febe01de1bbf7bd",
-    "company": "Databricks",
-    "title": "Staff Software Engineer  (Search Ranking)",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7958688002",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-24",
-    "is_active": true
-  },
-  {
-    "id": "9414eed009f8e662e879ac1906db49aa",
-    "company": "Databricks",
-    "title": "Staff Software Engineer - Multi Cloud Efficiency",
+    "id": "e5e9d47fb2bc245638811b7b1b4293af",
+    "company": "Fastly",
+    "title": "Business Systems Analyst, Order-To-Cash",
     "category": "Systems & Infrastructure/DevOps",
-    "tier": "High-Paying Startup / AI Lab",
+    "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
-      "Bengaluru",
+      "Pune",
       "Remote (India)"
     ],
     "batch_eligibility": [
@@ -6027,30 +6069,9 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593107002",
+    "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8018193",
     "source": "Greenhouse",
-    "date_posted": "2026-07-24",
-    "is_active": true
-  },
-  {
-    "id": "c7a51643e5226782c89e0fb0dbdacfb7",
-    "company": "Databricks",
-    "title": "Staff Software Engineer- Search Quality",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8439348002",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-24",
+    "date_posted": "2026-07-23",
     "is_active": true
   },
   {
@@ -6096,31 +6117,10 @@
     "is_active": true
   },
   {
-    "id": "e5e9d47fb2bc245638811b7b1b4293af",
-    "company": "Fastly",
-    "title": "Business Systems Analyst, Order-To-Cash",
-    "category": "Systems & Infrastructure/DevOps",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Pune",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8018193",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-23",
-    "is_active": true
-  },
-  {
-    "id": "d2c15632138656542d5ece9c64750c94",
+    "id": "48f2e5c6a65435a63d2f1d64c0500f6f",
     "company": "Druva",
-    "title": "Senior Staff Software Engineer - Engineering Escalations ",
-    "category": "Software Engineering (Backend/Fullstack)",
+    "title": "Staff Software Engineer (AI)",
+    "category": "AI/ML & GenAI",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
@@ -6132,7 +6132,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.druva.com/why-druva/explore/careers/jobs/8192672002/?gh_jid=8192672002",
+    "apply_url": "https://www.druva.com/why-druva/explore/careers/jobs/8564142002/?gh_jid=8564142002",
     "source": "Greenhouse",
     "date_posted": "2026-07-23",
     "is_active": true
@@ -6159,30 +6159,9 @@
     "is_active": true
   },
   {
-    "id": "48f2e5c6a65435a63d2f1d64c0500f6f",
+    "id": "9c8203237f9153b619c1c1efc783baea",
     "company": "Druva",
-    "title": "Staff Software Engineer (AI)",
-    "category": "AI/ML & GenAI",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Pune",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.druva.com/why-druva/explore/careers/jobs/8564142002/?gh_jid=8564142002",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-23",
-    "is_active": true
-  },
-  {
-    "id": "07152db13b57632600f5302224327e4d",
-    "company": "Druva",
-    "title": "Senior Staff Software Engineer, Distributed Filesystem",
+    "title": "Staff Software Engineer in Test",
     "category": "Software Engineering (Backend/Fullstack)",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
@@ -6195,7 +6174,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.druva.com/why-druva/explore/careers/jobs/8207141002/?gh_jid=8207141002",
+    "apply_url": "https://www.druva.com/why-druva/explore/careers/jobs/8308808002/?gh_jid=8308808002",
     "source": "Greenhouse",
     "date_posted": "2026-07-23",
     "is_active": true
@@ -6222,9 +6201,9 @@
     "is_active": true
   },
   {
-    "id": "9c8203237f9153b619c1c1efc783baea",
+    "id": "d2c15632138656542d5ece9c64750c94",
     "company": "Druva",
-    "title": "Staff Software Engineer in Test",
+    "title": "Senior Staff Software Engineer - Engineering Escalations ",
     "category": "Software Engineering (Backend/Fullstack)",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
@@ -6237,7 +6216,28 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://www.druva.com/why-druva/explore/careers/jobs/8308808002/?gh_jid=8308808002",
+    "apply_url": "https://www.druva.com/why-druva/explore/careers/jobs/8192672002/?gh_jid=8192672002",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-23",
+    "is_active": true
+  },
+  {
+    "id": "07152db13b57632600f5302224327e4d",
+    "company": "Druva",
+    "title": "Senior Staff Software Engineer, Distributed Filesystem",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Pune",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://www.druva.com/why-druva/explore/careers/jobs/8207141002/?gh_jid=8207141002",
     "source": "Greenhouse",
     "date_posted": "2026-07-23",
     "is_active": true
@@ -6427,26 +6427,6 @@
     "is_active": true
   },
   {
-    "id": "69d0675166abdefd1d01e6573cc1a1e6",
-    "company": "GitLab",
-    "title": "Senior Backend Engineer, AI Engineering: Chat   ",
-    "category": "AI/ML & GenAI",
-    "tier": "Global Remote",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8621733002",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-21",
-    "is_active": true
-  },
-  {
     "id": "9e29a717d4614594a8395a6529f99c4c",
     "company": "GitLab",
     "title": "Senior Backend Engineer, Deployment Environments",
@@ -6462,6 +6442,26 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8636713002",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-21",
+    "is_active": true
+  },
+  {
+    "id": "69d0675166abdefd1d01e6573cc1a1e6",
+    "company": "GitLab",
+    "title": "Senior Backend Engineer, AI Engineering: Chat   ",
+    "category": "AI/ML & GenAI",
+    "tier": "Global Remote",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8621733002",
     "source": "Greenhouse",
     "date_posted": "2026-07-21",
     "is_active": true
@@ -6571,27 +6571,6 @@
     "is_active": true
   },
   {
-    "id": "728bf9c2d5221edf50c4a7ec54c44147",
-    "company": "Pure Storage",
-    "title": "Enterprise AI & Integrations Analyst (Bangalore) ",
-    "category": "AI/ML & GenAI",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/8037952",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-20",
-    "is_active": true
-  },
-  {
     "id": "d040a4e7926113c9242c86c6b736b9e8",
     "company": "GitLab",
     "title": "Intermediate Backend Engineer - Analytics Instrumentation",
@@ -6608,6 +6587,27 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8615389002",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-20",
+    "is_active": true
+  },
+  {
+    "id": "728bf9c2d5221edf50c4a7ec54c44147",
+    "company": "Pure Storage",
+    "title": "Enterprise AI & Integrations Analyst (Bangalore) ",
+    "category": "AI/ML & GenAI",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/8037952",
     "source": "Greenhouse",
     "date_posted": "2026-07-20",
     "is_active": true
@@ -6675,6 +6675,26 @@
     "is_active": true
   },
   {
+    "id": "0c2cc6d726872f0d89c901a4ed5d2501",
+    "company": "GitLab",
+    "title": "AI Engineer",
+    "category": "AI/ML & GenAI",
+    "tier": "Global Remote",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8565469002",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-16",
+    "is_active": true
+  },
+  {
     "id": "4b05537e705ae122e1de8ec8675ccdea",
     "company": "GitLab",
     "title": "Senior Backend Engineer,  SSCS: Supply Chain",
@@ -6691,26 +6711,6 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8480580002",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-16",
-    "is_active": true
-  },
-  {
-    "id": "0c2cc6d726872f0d89c901a4ed5d2501",
-    "company": "GitLab",
-    "title": "AI Engineer",
-    "category": "AI/ML & GenAI",
-    "tier": "Global Remote",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8565469002",
     "source": "Greenhouse",
     "date_posted": "2026-07-16",
     "is_active": true
@@ -6820,6 +6820,27 @@
     "is_active": true
   },
   {
+    "id": "9ca385a1f3a4eba0e49b4a982a525ea5",
+    "company": "GitLab",
+    "title": "Senior Backend Engineer, Gitlab Delivery: Zero Downtime Upgrades",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Global Remote",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8463925002",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-16",
+    "is_active": true
+  },
+  {
     "id": "9b2d414519185c5c29415a0142aa5d30",
     "company": "GitLab",
     "title": "Staff Infrastructure Security Engineer ",
@@ -6856,27 +6877,6 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8480559002",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-16",
-    "is_active": true
-  },
-  {
-    "id": "9ca385a1f3a4eba0e49b4a982a525ea5",
-    "company": "GitLab",
-    "title": "Senior Backend Engineer, Gitlab Delivery: Zero Downtime Upgrades",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Global Remote",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8463925002",
     "source": "Greenhouse",
     "date_posted": "2026-07-16",
     "is_active": true
@@ -7107,26 +7107,6 @@
     "is_active": true
   },
   {
-    "id": "f11275b1f24bc806b7262b5333878e9c",
-    "company": "InMobi",
-    "title": "SDE IV - Backend",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "High-Paying Startup / AI Lab",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/inmobi/jobs/6919206",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-08",
-    "is_active": true
-  },
-  {
     "id": "ac2bfddf67774d4a7ce79cf29f73f34e",
     "company": "Pure Storage",
     "title": "Application Engineer (AI Automation)",
@@ -7148,23 +7128,23 @@
     "is_active": true
   },
   {
-    "id": "f44c54dcc8e5b2c5c00850dbd70daa3f",
-    "company": "GitLab",
-    "title": "Senior Backend Engineer, Analytics Instrumentation (Golang)",
-    "category": "Data & Analytics",
-    "tier": "Global Remote",
+    "id": "f11275b1f24bc806b7262b5333878e9c",
+    "company": "InMobi",
+    "title": "SDE IV - Backend",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "High-Paying Startup / AI Lab",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
-      "Remote (India)"
+      "Bengaluru"
     ],
     "batch_eligibility": [
       2025,
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8451512002",
+    "apply_url": "https://job-boards.greenhouse.io/inmobi/jobs/6919206",
     "source": "Greenhouse",
-    "date_posted": "2026-07-07",
+    "date_posted": "2026-07-08",
     "is_active": true
   },
   {
@@ -7184,6 +7164,26 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/8035079",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-07",
+    "is_active": true
+  },
+  {
+    "id": "f44c54dcc8e5b2c5c00850dbd70daa3f",
+    "company": "GitLab",
+    "title": "Senior Backend Engineer, Analytics Instrumentation (Golang)",
+    "category": "Data & Analytics",
+    "tier": "Global Remote",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8451512002",
     "source": "Greenhouse",
     "date_posted": "2026-07-07",
     "is_active": true
@@ -7310,27 +7310,6 @@
     "is_active": true
   },
   {
-    "id": "e64202200d7fdac5c73c0ecf31133481",
-    "company": "Pure Storage",
-    "title": "Account Executive- BFSI, Mumbai",
-    "category": "AI/ML & GenAI",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Mumbai",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/7912239",
-    "source": "Greenhouse",
-    "date_posted": "2026-06-27",
-    "is_active": true
-  },
-  {
     "id": "15f7cfc9c6b0aa6e7d62ff64436f10a5",
     "company": "Pure Storage",
     "title": "Consulting Systems Engineer, Data Management  (EMEA)",
@@ -7351,13 +7330,14 @@
     "is_active": true
   },
   {
-    "id": "8d91b36e9b598b0a19dce53e1de3f0ed",
+    "id": "e64202200d7fdac5c73c0ecf31133481",
     "company": "Pure Storage",
-    "title": "Consulting Field Solutions Architect, AI/Analytics - SLED",
+    "title": "Account Executive- BFSI, Mumbai",
     "category": "AI/ML & GenAI",
     "tier": "Enterprise SaaS & DevTools",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
+      "Mumbai",
       "Remote (India)"
     ],
     "batch_eligibility": [
@@ -7365,7 +7345,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/7977846",
+    "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/7912239",
     "source": "Greenhouse",
     "date_posted": "2026-06-27",
     "is_active": true
@@ -7392,6 +7372,26 @@
     "is_active": true
   },
   {
+    "id": "8d91b36e9b598b0a19dce53e1de3f0ed",
+    "company": "Pure Storage",
+    "title": "Consulting Field Solutions Architect, AI/Analytics - SLED",
+    "category": "AI/ML & GenAI",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/7977846",
+    "source": "Greenhouse",
+    "date_posted": "2026-06-27",
+    "is_active": true
+  },
+  {
     "id": "d791ed4dd36ee923a5e115def0175f58",
     "company": "Pure Storage",
     "title": "Senior Business Development Manager, AI Native Ecosystems & Strategic Influence",
@@ -7407,27 +7407,6 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/7688316",
-    "source": "Greenhouse",
-    "date_posted": "2026-06-27",
-    "is_active": true
-  },
-  {
-    "id": "1576ad81d20ac85d6cb2ac9c62fcf823",
-    "company": "Pure Storage",
-    "title": "Senior Analyst - Data & Analytics",
-    "category": "Data & Analytics",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Bengaluru",
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/7811400",
     "source": "Greenhouse",
     "date_posted": "2026-06-27",
     "is_active": true
@@ -7449,6 +7428,27 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/7815714",
+    "source": "Greenhouse",
+    "date_posted": "2026-06-27",
+    "is_active": true
+  },
+  {
+    "id": "1576ad81d20ac85d6cb2ac9c62fcf823",
+    "company": "Pure Storage",
+    "title": "Senior Analyst - Data & Analytics",
+    "category": "Data & Analytics",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Bengaluru",
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/7811400",
     "source": "Greenhouse",
     "date_posted": "2026-06-27",
     "is_active": true
@@ -7515,10 +7515,10 @@
     "is_active": true
   },
   {
-    "id": "d55f5826943ed871f73b604c9d75cef2",
+    "id": "84641bfdd81a9058bd69ee9445414159",
     "company": "InMobi",
-    "title": "Lead Cloud Security Engineer",
-    "category": "Systems & Infrastructure/DevOps",
+    "title": "Staff Machine Learning Manager ",
+    "category": "AI/ML & GenAI",
     "tier": "High-Paying Startup / AI Lab",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
@@ -7529,7 +7529,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/inmobi/jobs/7298400",
+    "apply_url": "https://job-boards.greenhouse.io/inmobi/jobs/7795140",
     "source": "Greenhouse",
     "date_posted": "2026-06-23",
     "is_active": true
@@ -7555,10 +7555,10 @@
     "is_active": true
   },
   {
-    "id": "84641bfdd81a9058bd69ee9445414159",
+    "id": "d55f5826943ed871f73b604c9d75cef2",
     "company": "InMobi",
-    "title": "Staff Machine Learning Manager ",
-    "category": "AI/ML & GenAI",
+    "title": "Lead Cloud Security Engineer",
+    "category": "Systems & Infrastructure/DevOps",
     "tier": "High-Paying Startup / AI Lab",
     "conversion_potential": "Direct FTE / New Grad",
     "location": [
@@ -7569,7 +7569,7 @@
       2026
     ],
     "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/inmobi/jobs/7795140",
+    "apply_url": "https://job-boards.greenhouse.io/inmobi/jobs/7298400",
     "source": "Greenhouse",
     "date_posted": "2026-06-23",
     "is_active": true
@@ -7676,26 +7676,6 @@
     "is_active": true
   },
   {
-    "id": "d0ee4f2b321467505e30ff7ae5c1937f",
-    "company": "CircleCI",
-    "title": "Senior Software Engineer",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Direct FTE / New Grad",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2025,
-      2026
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "http://www.circleci.com/careers/jobs/8475304002/?gh_jid=8475304002",
-    "source": "Greenhouse",
-    "date_posted": "2026-05-14",
-    "is_active": true
-  },
-  {
     "id": "c6d5b56dd0105ed90844f10978235525",
     "company": "CircleCI",
     "title": "Software Engineer",
@@ -7711,6 +7691,26 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "http://www.circleci.com/careers/jobs/8510404002/?gh_jid=8510404002",
+    "source": "Greenhouse",
+    "date_posted": "2026-05-14",
+    "is_active": true
+  },
+  {
+    "id": "d0ee4f2b321467505e30ff7ae5c1937f",
+    "company": "CircleCI",
+    "title": "Senior Software Engineer",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Direct FTE / New Grad",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2025,
+      2026
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "http://www.circleci.com/careers/jobs/8475304002/?gh_jid=8475304002",
     "source": "Greenhouse",
     "date_posted": "2026-05-14",
     "is_active": true
@@ -7736,6 +7736,26 @@
     "is_active": true
   },
   {
+    "id": "cc0c6c4e849b2bb3d2f7ee159334880f",
+    "company": "<a href=\"https://www.deepgram.com/\"><strong>Deepgram</strong></a>",
+    "title": "Software Engineering- Internship - Fall 2026/Summer 2027",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Standard Internship",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2026,
+      2027
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1",
+    "source": "GitHub_Repos",
+    "date_posted": "2026-08-01",
+    "is_active": true
+  },
+  {
     "id": "0c13ce2e7a2a567751cfdd50cbee0ce1",
     "company": "<a href=\"https://www.leidos.com\"><strong>Leidos</strong></a>",
     "title": "Application Developer Intern",
@@ -7752,26 +7772,6 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1",
-    "source": "GitHub_Repos",
-    "date_posted": "2026-08-01",
-    "is_active": true
-  },
-  {
-    "id": "cc0c6c4e849b2bb3d2f7ee159334880f",
-    "company": "<a href=\"https://www.deepgram.com/\"><strong>Deepgram</strong></a>",
-    "title": "Software Engineering- Internship - Fall 2026/Summer 2027",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Standard Internship",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2026,
-      2027
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1",
     "source": "GitHub_Repos",
     "date_posted": "2026-08-01",
     "is_active": true
@@ -7819,27 +7819,6 @@
     "is_active": true
   },
   {
-    "id": "d62c6cfbceb227477c18567d0f825e30",
-    "company": "Twilio",
-    "title": "IT Internal Auditor",
-    "category": "Software Engineering (Backend/Fullstack)",
-    "tier": "Enterprise SaaS & DevTools",
-    "conversion_potential": "Standard Internship",
-    "location": [
-      "Remote (India)"
-    ],
-    "batch_eligibility": [
-      2026,
-      2027,
-      2028
-    ],
-    "stipend_or_ctc": "Disclosed",
-    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7982861",
-    "source": "Greenhouse",
-    "date_posted": "2026-07-31",
-    "is_active": true
-  },
-  {
     "id": "0965000bf2bbf6868608d45da7f445e5",
     "company": "Twilio",
     "title": "IT Internal Auditor",
@@ -7856,6 +7835,27 @@
     ],
     "stipend_or_ctc": "Disclosed",
     "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7987846",
+    "source": "Greenhouse",
+    "date_posted": "2026-07-31",
+    "is_active": true
+  },
+  {
+    "id": "d62c6cfbceb227477c18567d0f825e30",
+    "company": "Twilio",
+    "title": "IT Internal Auditor",
+    "category": "Software Engineering (Backend/Fullstack)",
+    "tier": "Enterprise SaaS & DevTools",
+    "conversion_potential": "Standard Internship",
+    "location": [
+      "Remote (India)"
+    ],
+    "batch_eligibility": [
+      2026,
+      2027,
+      2028
+    ],
+    "stipend_or_ctc": "Disclosed",
+    "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7982861",
     "source": "Greenhouse",
     "date_posted": "2026-07-31",
     "is_active": true
