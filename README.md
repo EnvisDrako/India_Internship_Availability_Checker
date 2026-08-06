@@ -1,16 +1,16 @@
 # 🚀 Automated India AI & SWE Internship/Off-Campus Tracker
 
 > **PPO & High-Conversion Focus** | Auto-scraped & normalized every 6 hours via GitHub Actions  
-> **Live Web Dashboard:** [https://india-internship-availability-checker.vercel.app](index.html) *(Updated: 2026-08-05 19:07:38 IST)*
+> **Live Web Dashboard:** [https://india-internship-availability-checker.vercel.app](index.html) *(Updated: 2026-08-06 01:10:20 IST)*
 
 ---
 
 ## 📊 Live Overview & Quick Metrics
-- ⚡ **Total Active Roles (India):** `435`
-- 🎓 **Indian Internships & Trainee Roles:** `42`
-- 🔥 **High PPO / FTE Conversion Roles:** `27`
+- ⚡ **Total Active Roles (India):** `442`
+- 🎓 **Indian Internships & Trainee Roles:** `47`
+- 🔥 **High PPO / FTE Conversion Roles:** `31`
 - 🤖 **AI / ML & GenAI Opportunities:** `123`
-- 💻 **Software & Systems Engineering Roles:** `296`
+- 💻 **Software & Systems Engineering Roles:** `303`
 
 ---
 
@@ -20,36 +20,36 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Twilio** | Technical Support Engineer 2 | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/8104436) |
 | **Bosch Group** | SO_SAP_Support(Component Business)_SME_2026 | Software Engineering (Backend/Fullstack) | Pune | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://jobs.smartrecruiters.com/BoschGroup/744000141636519) |
+| **Twilio** | Manager, Personalized Support | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/8024918) |
+| **Twilio** | Manager, Personalized Support | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/8109975) |
+| **Twilio** | Principal Internal Communications Manager | Software Engineering (Backend/Fullstack) | Remote (India) | `2026, 2027, 2028` | Disclosed | 🎓 Internship | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/8108654) |
+| **GitLab** | Intermediate Support Engineer (SHIFT) | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/gitlab/jobs/8684078002) |
+| **GitLab** | Intermediate Support Engineer (SHIFT)  | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/gitlab/jobs/8684061002) |
 | **Anysphere (Cursor)** | Support Operations Systems Lead | Systems & Infrastructure/DevOps | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://jobs.ashbyhq.com/cursor/dbefd2a3-0ea7-42ad-a50d-e85ee186267a) |
-| **Twilio** | Technical Support Expert 3 | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/8055895) |
-| **GitLab** | Support Engineer (AMER) | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/gitlab/jobs/8654230002) |
-| **Twilio** | Technical Support Engineer 2 | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/8079708) |
-| **Twilio** | Technical Support Expert 2 | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/7966810) |
 | **Twilio** | Staff, Technical Support Engineer | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/8081664) |
 | **Twilio** | Manager, Technical Support | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/8016226) |
-| **Twilio** | Technical Support Expert 2 | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/7993860) |
-| **Twilio** | Technical Support Expert 2 | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/8052668) |
-| **GitLab** | Director, Support (Bengaluru) | Software Engineering (Backend/Fullstack) | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/gitlab/jobs/8629019002) |
-| **GitLab** | Director, Support (EMEA) | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/gitlab/jobs/8629005002) |
-| **Twilio** | Staff Solutions Architect, Opportunity LifeCycle Management | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/7979240) |
+| **Twilio** | Technical Support Engineer 2 | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/8079708) |
+| **Twilio** | Technical Support Expert 2 | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/7966810) |
 | **GitLab** | Senior Assigned Support Engineer (EMEA) | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/gitlab/jobs/8645825002) |
+| **Twilio** | Staff Solutions Architect, Opportunity LifeCycle Management | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/7979240) |
+| **Twilio** | Technical Support Engineer 1 | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/8016229) |
+| **Twilio** | Technical Support Expert 2 | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/7993860) |
 | **Twilio** | Manager, Technical Support | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/8056321) |
-| **Twilio** | Technical Support Engineer 2 | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/7917665) |
+| **Twilio** | Technical Support Expert 2 | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/8052668) |
 | **Datadog** | Manager II, Premier Support Engineering | Software Engineering (Backend/Fullstack) | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://careers.datadoghq.com/detail/7992945/?gh_jid=7992945) |
 | **GitLab** | Support Engineer, U.S. Government Support | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/gitlab/jobs/8628780002) |
 | **Twilio** | Supportability Engineer 3 | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/7520866) |
-| **Databricks** | Staff Designated Support Engineer | Software Engineering (Backend/Fullstack) | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://databricks.com/company/careers/open-positions/job?gh_jid=8554463002) |
-| **Databricks** | Senior Designated Support Engineer | Software Engineering (Backend/Fullstack) | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://databricks.com/company/careers/open-positions/job?gh_jid=8564166002) |
-| **Stripe** | Product Support Operations Associate, Weekend Shift | Software Engineering (Backend/Fullstack) | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://stripe.com/jobs/search?gh_jid=7975698) |
-| **Stripe** | Product Support Operations, Team Lead | Software Engineering (Backend/Fullstack) | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://stripe.com/jobs/search?gh_jid=7390485) |
-| **Stripe** | Global People Support - Team Lead | Software Engineering (Backend/Fullstack) | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://stripe.com/jobs/search?gh_jid=7553098) |
+| **Twilio** | Technical Support Engineer 2 | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/7917665) |
+| **GitLab** | Director, Support (EMEA) | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/gitlab/jobs/8629005002) |
+| **GitLab** | Director, Support (Bengaluru) | Software Engineering (Backend/Fullstack) | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/gitlab/jobs/8629019002) |
+| **Twilio** | Technical Support Expert 3 | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/8055895) |
 
 ---
 
 ## 📂 Quick Navigation Categories
-- 🎓 **[View All Indian Internships](INTERNSHIPS_INDIA.md)** (`42` open)
+- 🎓 **[View All Indian Internships](INTERNSHIPS_INDIA.md)** (`47` open)
 - 🤖 **[View All AI & ML Roles](AI_AND_ML_ROLES.md)** (`123` open)
-- 💻 **[View All SDE & Systems Roles](SDE_AND_SYSTEMS.md)** (`296` open)
+- 💻 **[View All SDE & Systems Roles](SDE_AND_SYSTEMS.md)** (`303` open)
 
 ---
 
