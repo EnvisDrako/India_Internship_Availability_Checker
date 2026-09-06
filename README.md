@@ -1,7 +1,7 @@
 # 🚀 Automated India AI & SWE Internship/Off-Campus Tracker
 
 > **PPO & High-Conversion Focus** | Auto-scraped & normalized every 6 hours via GitHub Actions  
-> **Live Web Dashboard:** [https://india-internship-availability-checker.vercel.app](index.html) *(Updated: 2026-09-06 01:23:37 IST)*
+> **Live Web Dashboard:** [https://india-internship-availability-checker.vercel.app](index.html) *(Updated: 2026-09-06 09:43:55 IST)*
 
 ---
 
@@ -19,30 +19,30 @@
 | Company | Role Title | Category | Location | Eligible Batches | Stipend / CTC | Conversion | Apply Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Bosch Group** | SAP MDM Consultant for Application support and Maintenance | AI/ML & GenAI | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://jobs.smartrecruiters.com/BoschGroup/744000147640279) |
-| **GitLab** | Support Engineer, U.S. Government Support | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/gitlab/jobs/8707353002) |
-| **GitLab** | Senior Assigned Support Engineer (EMEA) | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/gitlab/jobs/8701290002) |
-| **GitLab** | Senior Assigned Support Engineer (AMER) | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/gitlab/jobs/8709925002) |
 | **GitLab** | Senior Support Engineer | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/gitlab/jobs/8692880002) |
-| **GitLab** | Intermediate Support Engineer | Software Engineering (Backend/Fullstack) | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/gitlab/jobs/8687026002) |
-| **Twilio** | Technical Support Engineer 2 | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/8140436) |
-| **GitLab** | Manager, Support Engineering, US Government | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/gitlab/jobs/8707385002) |
+| **GitLab** | Support Engineer, U.S. Government Support | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/gitlab/jobs/8707353002) |
+| **GitLab** | Senior Assigned Support Engineer (AMER) | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/gitlab/jobs/8709925002) |
 | **GitLab** | Senior Support Engineer | Software Engineering (Backend/Fullstack) | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/gitlab/jobs/8692874002) |
+| **GitLab** | Senior Assigned Support Engineer (EMEA) | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/gitlab/jobs/8701290002) |
+| **Twilio** | Technical Support Engineer 2 | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/8140436) |
 | **Pure Storage** | ServiceNow Platform Support | Systems & Infrastructure/DevOps | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/purestorage/jobs/8121156) |
-| **Anysphere (Cursor)** | Support Operations Systems Lead | Systems & Infrastructure/DevOps | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://jobs.ashbyhq.com/cursor/dbefd2a3-0ea7-42ad-a50d-e85ee186267a) |
-| **Twilio** | Technical Support Engineer 2 | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/8104436) |
-| **Twilio** | Manager, Personalized Support | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/8109975) |
+| **GitLab** | Intermediate Support Engineer | Software Engineering (Backend/Fullstack) | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/gitlab/jobs/8687026002) |
+| **GitLab** | Manager, Support Engineering, US Government | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/gitlab/jobs/8707385002) |
+| **Stripe** | Voice Support Operations Associate  | Software Engineering (Backend/Fullstack) | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://stripe.com/jobs/search?gh_jid=8168793) |
 | **GitLab** | Intermediate Support Engineer (SHIFT)  | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/gitlab/jobs/8684061002) |
-| **Bosch Group** | SAP Business Analytics Support Consultant - SAC and Power BI | Data & Analytics | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://jobs.smartrecruiters.com/BoschGroup/744000145689689) |
-| **Twilio** | Technical Support Engineer 2 | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/8079708) |
-| **Bosch Group** | SAP PS Consultant for Application support and Maintenance | AI/ML & GenAI | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://jobs.smartrecruiters.com/BoschGroup/744000146162469) |
-| **Bosch Group** | iGPM & BD PLW Consultant for Application support and Maintenance | AI/ML & GenAI | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://jobs.smartrecruiters.com/BoschGroup/744000145660758) |
+| **Twilio** | Technical Support Engineer 2 | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/8104436) |
+| **Anysphere (Cursor)** | Support Operations Systems Lead | Systems & Infrastructure/DevOps | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://jobs.ashbyhq.com/cursor/dbefd2a3-0ea7-42ad-a50d-e85ee186267a) |
 | **GitLab** | Intermediate Support Engineer (SHIFT) | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/gitlab/jobs/8684078002) |
-| **Bosch Group** | SAP- BW on HANA Support and Maintenance Specialist | AI/ML & GenAI | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://jobs.smartrecruiters.com/BoschGroup/744000146659390) |
-| **Bosch Group** | SAP Business Analytics Support Consultant - SAP BW, SAC and Power BI | Data & Analytics | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://jobs.smartrecruiters.com/BoschGroup/744000145705559) |
-| **Bosch Group** | SAP SD consultant for Application support and Maintenance | AI/ML & GenAI | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://jobs.smartrecruiters.com/BoschGroup/744000145705789) |
-| **Bosch Group** | Global Process Expert - S/4 Run and Support | Software Engineering (Backend/Fullstack) | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://jobs.smartrecruiters.com/BoschGroup/744000144260839) |
+| **Twilio** | Manager, Personalized Support | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/8024918) |
+| **Twilio** | Technical Support Engineer 2 | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/8079708) |
+| **Twilio** | Manager, Personalized Support | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/twilio/jobs/8109975) |
+| **Stripe** | Strategic Program Manager, Support | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://stripe.com/jobs/search?gh_jid=8112456) |
 | **Bosch Group** | SAP SD consultant for Application support and Maintenance | AI/ML & GenAI | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://jobs.smartrecruiters.com/BoschGroup/744000145705899) |
-| **Bosch Group** | SAP FI Consultant for Application support and Maintenance | AI/ML & GenAI | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://jobs.smartrecruiters.com/BoschGroup/744000145712909) |
+| **GitLab** | Senior Assigned Support Engineer (EMEA) | Software Engineering (Backend/Fullstack) | Remote (India) | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://job-boards.greenhouse.io/gitlab/jobs/8645825002) |
+| **Bosch Group** | SAP Business Analytics Support Consultant - SAC and Power BI | Data & Analytics | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://jobs.smartrecruiters.com/BoschGroup/744000145689689) |
+| **Bosch Group** | SAP Business Analytics Support Consultant - SAP BW, SAC and Power BI | Data & Analytics | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://jobs.smartrecruiters.com/BoschGroup/744000145705559) |
+| **Bosch Group** | SAP- BW on HANA Support and Maintenance Specialist | AI/ML & GenAI | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://jobs.smartrecruiters.com/BoschGroup/744000146659390) |
+| **Bosch Group** | iGPM & BD PLW Consultant for Application support and Maintenance | AI/ML & GenAI | Bengaluru | `2025, 2026` | Disclosed | 🔥 **High PPO** | [Apply Now 🚀](https://jobs.smartrecruiters.com/BoschGroup/744000145660758) |
 
 ---
 
